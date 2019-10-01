@@ -1,0 +1,33 @@
+/* XPM */
+static char *hex_colors[] = {
+/* columns rows colors chars-per-pixel */
+"22 22 5 1 ",
+"  c None",
+". c black",
+"X c red",
+"o c green",
+"O c yellow",
+/* pixels */
+"           .....O.....",
+"          X...........",
+"         X......O.....",
+"        X.X...........",
+"       X.X......O.....",
+"      oooooO.O.O.O.O.O",
+"     ..X.X......O.....",
+"    X.X.X.X...........",
+"   X...X.X......O.....",
+"  X.X.X.X.X...........",
+" X.X...X.X......O.....",
+"XXXXX.XXXXX.X.X.o.X.X.",
+"XXXXX.XXXXXX.X.XoX.X.X",
+"XXXXX.XXXXX.X.X.o.X.X.",
+"XXXXX.XXXXXX.X.XoX.X.X",
+"XXXXX.XXXXX.X.X.o.X.X.",
+"......................",
+"XXXXX.XXXXX.X.X.o.X.X.",
+"XXXXX.XXXXXX.X.XoX.X.X",
+"XXXXX.XXXXX.X.X.o.X.X.",
+"XXXXX.XXXXXX.X.XoX.X.X",
+"XXXXX.XXXXX.X.X.o.X.X."
+};

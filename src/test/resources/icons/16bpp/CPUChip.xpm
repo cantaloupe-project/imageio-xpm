@@ -1,0 +1,166 @@
+/* XPM */
+static char *chip[] = {
+/* width height num_colors chars_per_pixel */
+"    48    48       63            1",
+/* colors */
+". c None",
+"# c #514120",
+"a c #282010",
+"b c #383018",
+"c c #ae7949",
+"d c #715130",
+"e c #d7a261",
+"f c #201810",
+"g c #383020",
+"h c #493820",
+"i c #be8a51",
+"j c #614928",
+"k c #efba71",
+"l c #8e6138",
+"m c #514928",
+"n c #514128",
+"o c #302818",
+"p c #966938",
+"q c #c79251",
+"r c #b68a51",
+"s c #9e7141",
+"t c #865130",
+"u c #792818",
+"v c #9e7949",
+"w c #ae9a86",
+"x c #a69279",
+"y c #494128",
+"z c #b69261",
+"A c #d7aa69",
+"B c #cfc3be",
+"C c #be9269",
+"D c #cfbaae",
+"E c #a69a61",
+"F c #8e7961",
+"G c #ae8249",
+"H c #c7a269",
+"I c #e7dbd7",
+"J c #181008",
+"K c #c7aa96",
+"L c #cfbaa6",
+"M c #c7aa86",
+"N c #716941",
+"O c #ffd379",
+"P c #866941",
+"Q c #efebe7",
+"R c #a68259",
+"S c #966941",
+"T c #dfc3a6",
+"U c #615938",
+"V c #e7db86",
+"W c #181808",
+"X c #dfba96",
+"Y c #beb269",
+"Z c #ffeb8e",
+"0 c #e7d3be",
+"1 c #e7c3a6",
+"2 c #bea296",
+"3 c #695130",
+"4 c #dfd386",
+"5 c #f7e3a6",
+"6 c #ae4930",
+"7 c #201808",
+"8 c #cfc371",
+/* pixels */
+"................................................",
+"................................................",
+"...................#aa..........................",
+"..................#abaaccd......................",
+"...............#e#fgbbbhiej.....................",
+"...............iklgbbbbbbdh.jj..................",
+"...............mnggbbbbbbofpeqj.................",
+"............#q#ogggbbbbbbbbodp.jj...............",
+"............rkrgggggbbbbbbbboafsqd..............",
+"............htugggggomggbbbbooojic.lp...........",
+".........#voougggggohwxyggbbbooobfpdlj..........",
+".........zkAugggggbuBCDEFugbbooooofGel..........",
+".........mHjugggggbpIEDwDFmggboooooodJ.jj.......",
+"......#joonugggggoKLLwwMwDDjuboooooooffqq#......",
+"......NOkuugggggaPzQzRpRRBEKBngbooooooomro......",
+"......PkPuuggggaSQHTEsSppKFQERwubooooooooofll...",
+"......onuuugggoFCMQzsutsSpFMRQLlUgbooooooooGet..",
+"...#VPWuuuuugbjXQKCctuttSSppwwEIBNuboooooooojf..",
+"...YZzuuuuuubm0HH1GccsuuusSpppDxRLBUgboooooooff.",
+"...ovuuuuuughH1I1GGGccstSutsSppFKMRRxnooooooobJ.",
+"#FoouuuuuugbD01MrrGGGcccStuupSppPpBD2moooooobff.",
+"YZYuuuuuuuorAXXHirrGGGcccsstssSPdLDD3oooooobaf..",
+"P4juuuuuuaxIqqqiiirrGGGcccssssldHCCPoooooobafo..",
+"##yuuuuuutQ110wjriirrGGGGcccspd0BBBoooooooofeeo.",
+"jnyuuuuuuuF51A1DUsiiirrGcGccsdKKzvuooooooofadeqa",
+"gnnyuuuuuuun2Q1A0wdriir6u6GcdwC1QmoooooooaJ.adoa",
+"WbyyyuuuuuuuuSXQ5kDjsii6u6GdFIBC3oooooooao#7.aah",
+".oUuyyuuuuuuuuUCAQXXEdirGGdFIC1wbooooooaoGkG7.h.",
+".U5zuuuuuuuuuuuuwXkQkBjcidxM0Ivbboooooa7.hkkcf..",
+"m55EJouuuuuuuuuggjD5XIKRdFMICBmbbboooao#7.hiff..",
+"j4Y..fEguuuuuuugggyv555X2TK0T#bbbbooafGkG7.oo...",
+"Wl#.f85YouuuuuugggggFM0XIX0KFbbbbboaf7hkkcf.....",
+"....E55Uoaguuuuugggggu2X0AQvgbbbbbofW..hiff.....",
+"....n4N..bEuuuuugggggggN0XHubbbbbofo8y..oo......",
+"....Wl#.fV58oguuugggggggmRubbbbbof7YOOzh........",
+"........E5Vooabuugggggggggbbbbbbf7JheOHh........",
+"........#8m..m8yguggggggggbbbbba7W..hPh.........",
+"........Wl#.oVZYabguggggggbbbbo7h8y..hh.........",
+"............YZVfofoggggggbbbbo7WYOOzh...........",
+"............hYy..m4jgggggbbbbfWJheOHh...........",
+"............Wl#.o4Z8fobggbbbaWW..hPh............",
+"................zZ4fo7obgggoWh8y..hh............",
+"................ozy..o4NbbgfWYOOzh..............",
+"................Wl#.o4Z4gof7JheOHh..............",
+"....................NZVy.faW..hPh...............",
+"....................fRP........hh...............",
+"....................Wl#.........................",
+"................................................"
+};
+SIMPLE  =                    T                                                  
+BITPIX  =                    8                                                  
+NAXIS   =                    2                                                  
+NAXIS1  =                   48                                                  
+NAXIS2  =                   48                                                  
+HISTORY Written by XV 3.10                                                      
+END                                                                             
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+00000000000000000000000000000000000000000000000000000000000000000000jA000000000
+000000000000000000000000000000000000‡l00000000::0000000000000000000000000000000
+0000eãÑ?0 00:l:0000000000000000000000000000000jA0(ËãË0(:ªÔ¥:00000000000000
+0000000000000000(–?00(Ëe//0ªÔÔ–:000000000000000000000000000000–ãË((/000(:º?
+00::000000000000000000000000jA0(Ëãº(/00/// 00:l:000000000000000000000000:ª?0
+0FËL00000////:ªÔ¥:00000000000000000000000ªãÑ((000000////(ªÔÔ–:00000000000
+00000000jA0(Ñãª /0A000000////(:º?00::00000000000000000AºF00Fº?0A00000000///// 
+00:l:00000000000000000•àÑ(( /AA000000000//////:ªÔ¥:000000000000jA0Ñàº(0AA
+A0000000F‡A/////(ªÔÔ–:000000000000BËe00/•AAAAA0000000eÖÁ¥A/////((º?00((000000
+0000•ààV( 0AAAAA00000A©ÁÖ¯ë~0/////(00:’00000jA0ºàª(AAAAAA00000|®ÖÁŞÁÖ°|///
+//( :ÀÀƒ00000LËª00•0AAAAAAA000?~àààÁ©È°ÖÈA////(( ˆÀˆ0((000Fàà•(AAAAAAAAA0
+0L¿àÁŞ°‡V|®ŞšÆF///((( (A0:’000Và–AAAAAAAAAAAAÁÀëÀÆLƒ’V”®ÖŞ~//((((( 0:ÀÀƒ000(VA??AAAAAAAAVš¯ëÁÁ•V’ˆˆV|ŞšÊ/(((((( (ˆÀˆ0:0/???AAAAAAAArÁëàÀ¿Lx’’gAgˆV|ŞÆšT((((((( (A0  :0BB?AAAAAAAB©ëÊ¯ÖV’’gAgˆƒVšÊëF((((((( 0 V( LB?AAAAAAA|àÊ¯Ê¿Vx’’’ˆƒˆƒƒxV°°–~A((((((( Vªš AA?AAAAAA^ëÊÊÖL’’ˆˆˆˆƒƒƒxpVÖÆÆÆ((((((((ªª(0lËLAAAAAA ”Şššš’’’ˆˆˆƒƒƒxxxxjV¥ššl((((((/ (00ªãªAAAAAAA(¯ÁÁ¥’ˆˆˆƒƒƒxx^xxrlV¾¿¿T((((((/ 00A|((AAAAAA0/¿ÖÊ®ˆˆˆƒƒƒr^AAprpplpÆ¿©F((((((/0000(~AAAAAA0:¥ÊŞÊˆˆˆƒƒx^rA^xrpp|°®‡‡”B(((((((/0000ªã–AAAAAA/FÖ¥¥ÊˆƒƒxAAAxrppp¿”‡¾ÆV0/(((((((0000AÑlAAAAA0/LÁë°šƒ^A^^rrpp•ŞÆeA/((((((((L00000000(BAAA000(|š®ë–xA^xrp|®‡ë¾jV0/((((((((ˆª^00000000lÀlAA0000 rë¥È•xrpp°|ë•‡A/(((((((((jj000000000eÔÀAA00000 l–ë–‡p‡‡Æ•°ÆB0/(((((((F(000000000000AL((BA00000(°¾¾®¿¿LA/(((((((ššA000000000000000F¥LA00000/pŞ•¿¿|F00/((((((V0LL0000000000000000–À¯A00000/AÆš¿•|A0//(((((ˆªj0000000000000000000A~((A00000(:”?00///(((/pVjL0000000000000000000000:^A00000(F00////(((L’ƒ0jp00000000000000000000000À00000////////( xšV00000000000000000000000000AšA(000////////(Vp0LL000000000000000000000000000000FB00//////(pªšL00000000000000000000000000000000’Àj0//////V:0LL000000000000000000000000000000000AªA0///:’ªL000000000000000000000000000000000000000A /  ƒƒV00000000000000000000000000000000000000000A  00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€

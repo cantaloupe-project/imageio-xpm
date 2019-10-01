@@ -1,0 +1,220 @@
+/* XPM */
+static char *MicroPhonePro[] = {
+/* width height num_colors chars_per_pixel */
+"    48    48      117            2",
+/* colors */
+".. c #000000",
+".# c #000022",
+".a c #000033",
+".b c #001133",
+".c c #002244",
+".d c None",
+".e c #110033",
+".f c #111133",
+".g c #111144",
+".h c #111155",
+".i c #112233",
+".j c #112244",
+".k c #112255",
+".l c #113355",
+".m c #221144",
+".n c #222244",
+".o c #222255",
+".p c #222266",
+".q c #223344",
+".r c #223355",
+".s c #223366",
+".t c #223377",
+".u c #224466",
+".v c #224477",
+".w c #225566",
+".x c #226666",
+".y c #226677",
+".z c #2a2a54",
+".A c #332255",
+".B c #333344",
+".C c #333355",
+".D c #333366",
+".E c #334455",
+".F c #334466",
+".G c #334477",
+".H c #335566",
+".I c #335577",
+".J c #336666",
+".K c #336677",
+".L c #382a54",
+".M c #383862",
+".N c #443366",
+".O c #444466",
+".P c #444477",
+".Q c #444488",
+".R c #445566",
+".S c #445588",
+".T c #446688",
+".U c #545476",
+".V c #546076",
+".W c #554477",
+".X c #555566",
+".Y c #555577",
+".Z c #555588",
+".0 c #556677",
+".1 c #556688",
+".2 c #556699",
+".3 c #606076",
+".4 c #665577",
+".5 c #665588",
+".6 c #666677",
+".7 c #666688",
+".8 c #666699",
+".9 c #667788",
+"#. c #667799",
+"## c #668899",
+"#a c #717f8d",
+"#b c #768298",
+"#c c #776688",
+"#d c #777799",
+"#e c #778899",
+"#f c #7788bb",
+"#g c #7f7f90",
+"#h c #7f7f98",
+"#i c #7f8798",
+"#j c #828d98",
+"#k c #8787a1",
+"#l c #887799",
+"#m c #8888aa",
+"#n c #8888bb",
+"#o c #8899aa",
+"#p c #8899bb",
+"#q c #8d8da9",
+"#r c #9988bb",
+"#s c #9999aa",
+"#t c #9999bb",
+"#u c #99aabb",
+"#v c #99aacc",
+"#w c #a9b8c6",
+"#x c #aa99bb",
+"#y c #aaaabb",
+"#z c #aaaacc",
+"#A c #aabbcc",
+"#B c #aabbdd",
+"#C c #b8c6d4",
+"#D c #baafba",
+"#E c #bbaacc",
+"#F c #bbbbcc",
+"#G c #bbbbdd",
+"#H c #bbccdd",
+"#I c #c6b8d4",
+"#J c #c6c6d4",
+"#K c #ccbbdd",
+"#L c #ccbbee",
+"#M c #ccccdd",
+"#N c #ccccee",
+"#O c #ccddee",
+"#P c #ddccee",
+"#Q c #ddddee",
+"#R c #ddddff",
+"#S c #ddeeff",
+"#T c #e2e2e2",
+"#U c #eeddff",
+"#V c #eeeeff",
+"#W c #eeffff",
+"#X c #ffeeff",
+"#Y c #ffffff",
+/* pixels */
+".d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d",
+".d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d#J#C.d#W#R#u.D#i.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d",
+".d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d#I#W#P#t#G#t.4.C.a.C.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d",
+".d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d#J#W#R#o#m.#.a.a.7.j.D.3.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d",
+".d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d#w#G.6#G#F.5#F.W.C.m.6.L.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d",
+".d.d.d.d...............................7#W#Y.0.7.a.a.#.7.a.a.#........................#Y.d.d.d.d",
+".d.d.d.d...x.I.x.K.x.I.x.K.x.I.x.K.x.I#Y.7.0#G#F.7#F.5.#.a.0.a.x.K.x.I.x.K.x.I.x.K.x.I#Y.d.d.d.d",
+".d.d.d.d...K.y.K.x.K.y.K.x.K.y.K.x.K.y.7#W#Y.0.7.#.a.a.7.#.a.a.K.x.K.y.K.x.K.y.K.x.K.y#Y.d.d.d.d",
+".d.d.d.d...x.K.x.I.x.K.x.I.x.K.x.I.x.K#Y.5.6#G#F.5#F.7.#.a.6.a.x.I.x.K.x.I.x.K.x.I.x.K#Y.d.d.d.d",
+".d.d.d.d...K.y.K.y.K.y.K.y.K.y.K.y.K.y.7#W#Y.0.7.a.a.#.7.a.a.#.K.y.K.y.K.y.K.y.K.y.K.y#Y.d.d.d.d",
+".d.d.d.d...x.I.x.K.x.I.x.K.x.I.x.K.x.I#Y.7.0#G#F.7#F.5.#.a.0.a.x.K.x.I.x.K.x.I.x.K.x.I#Y.d.d.d.d",
+".d.d.d.d...K.y.K.x.K.y.K.x.K.y.K.x.K.y.7#W#Y.0.7.#.a.a.7.#.a.a.K.x.K.y.K.x.K.y.K.x.K.y#Y.d.d.d.d",
+".d.d.d.d...x.K.x.I.x.K.x.I.x.K.x.I.x.K#Y.5.6#G#F.5#F.7.#.a.6.a.x.I.x.K.x.I.x.K.x.I.x.K#Y.d.d.d.d",
+".d.d.d.d...K.y.K.y.K.y.K.y.K.y.K.y.K.y.7#W#Y.0.7.a.a.#.7.a.a.#.K.y.K.y.K.y.K.y.K.y.K.y#Y.d.d.d.d",
+".d.d.d.d...x.I.x.K.x.I.x.K.x.I#Y.a.x.I#Y.7.0#G#F.7#F.5.#.a.0.a.x.7.#.I.x.K.x.I.x.K.x.I#Y.d.d.d.d",
+".d.d.d.d...K.y.K.x.K.y.K.x.K.y#Y.#.K.y.7#W#Y.0.7.#.a.a.7.#.a.a.K.0.a.y.K.x.K.y.K.x.K.y#Y.d.d.d.d",
+".d.d.d.d...x.K.x.I.x.K.x.I.x.K#Y.a.#.a#Y.5.6#G#F.5#F.7.#.a.#.a.#.a.#.K.x.I.x.K.x.I.x.K#Y.d.d.d.d",
+".d.d.d.d...K.y.K.y.K.y.K.y.K.y#Y.a.K.y#Y#W#Y.0.7.a.a.q.g.a.a.#.K.1.a.y.K.y.K.y.K.y.K.y#Y.d.d.d.d",
+".d.d.d.d...x.I.x.I.x.I.x.I.x.I#Y.a.x.I#Y#X#Q#z.7.7.E.m.b.a.#.a.x.7.#.I.x.I.x.I.x.I.x.I#Y.d.d.d.d",
+".d.d.d.d...I.y.K.x.I.y.K.x.I.y#Y.#.I.y#Y#W#R#A#m.0.Y.r.g.#.a.a.K.0.a.y.K.x.K.y.K.x.K.y#Y.d.d.d.d",
+".d.d.d.d...J.I.x.I.J.I.x.I.J.I#Y.a.J.I#Y#X#V#G#o.5.X.C.i.a.#.a.x.5.#.I.x.I.J.I.x.I.J.I#Y.d.d.d.d",
+".d.d.d.d...I.x.I.y.I.x.I.y.I.x#Y.a.I.x#Y#W#U#H#r.1.Y.C.g.a.a.#.I.1.a.x.I.y.I.x.I.y.I.x#Y.d.d.d.d",
+".d.d.d.d...x.I.H.I.x.I.H.I.x.I#Y.a.x.I#Y#V#V#K#s.7.R.C.f.a.#.a.H.7.#.I.H.I.x.I.H.I.x.I#Y.d.d.d.d",
+".d.d.d.d...I.x.I.x.I.x.I.x.I.x#Y.#.I.x#Y#W#R#H#t.0.Y.E.g.#.a.a.I.9.a.x.I.x.I.x.I.x.I.x#Y.d.d.d.d",
+".d.d.d.d...H.I.H.I.H.I.H.I.H.I#Y.a.H.I#Y#U#V#G#o.5.X.C.i.a.#.a.H#l.#.I.H.I.H.I.H.I.H.I#Y.d.d.d.d",
+".d.d.d.d...I.w.I.y.I.w.I.y.I.w#Y.a.I.w#Y#S#R#H#m.0.Y.q.g.a.a.c.I#m.a.w.I.y.I.w.I.y.I.w#Y.d.d.d.d",
+".d.d.d.d...H.I.H.I.H.I.H.I.H.I#Y.a.u.I#p#L#O#E#d.Y.E.A.f.a.#.o.H#r.#.I.H.I.H.I.H.I.H.I#Y.d.d.d.d",
+".d.d.d.d...I.w.I.w.I.w.I.w.I.w#Y.#.t.w.S###G#e.7.F.o.j.a.#.k.u.I#A.a.w.I.w.I.w.I.w.I.w#Y.d.d.d.d",
+".d.d.d.d...H.I.H.G.H.I.H.G.H.I#H.n.j.I.H.Q.6.Y.E.n.f.g.#.a.s.I.H#G.b.I.H.G.H.I.H.G.H.I#Y.d.d.d.d",
+".d.d.d.d...I.w.I.H.I.w.I.H.I.w#f#o.g.w.I.H.v.l.g.a.a.c.p.v.I.w.2.0.g.w.I.I.I.w.I.I.I.w#Y.d.d.d.d",
+".d.d.d.d...H.G.H.G.H.G.H.G.H.G.T#N.#.s.H.G.H.G.H.G.H.G.H.G.H.G#z.C.j.G.H.G.H.G.H.G.H.G#Y.d.d.d.d",
+".d.d.d.d...G.H.I.w.G.H.I.w.G.H.I#A.7.a.I.w.G.H.I.w.G.w.I.w.G#B.P.j.t.w.I.w.G.w.I.w.G.w#Y.d.d.d.d",
+".d.d.d.d...H.G.H.G.H.G.H.G.H.G.H.8#F.5.#.G.H.G.H.G.H.G.H#r#B.O.b.s.H.G.H.G.H.o.#.a.#.a#Y.d.d.d.d",
+".d.d.d.d...G.w.G.H.G.w.G.H.G.w.G.H.8#A.7.O.s.w.G.H.G#.#B#B.r.b.t.H.G.w.G.l.k.l.G.H.G.w#Y.d.d.d.d",
+".d.d.d.d...H.G.F.G.H.G.F.G.H.G.F.G.H.8.s.O.0#l#t#G#u#c.R.e.j.p.F.G.H.G.F.g.H.G.F.G.H.G#Y.d.d.d.d",
+".d.d.d.d...G.H.G.w.G.H.G.w.G.H.G.w.G.H.G.v.t.l.g.#.a.a.g.l.t.H.G.w.G.H.G.#.s.H.G.w.G.H#Y.d.d.d.d",
+".d.d.d.d...F.G.F.F.F.G.F.F.F.G.F.F.F.G.F.F.F.G#F#x.j.G.F.F.F.G.F.F.F.G.F.o.j.G.F.F.F.G#Y.d.d.d.d",
+".d.d.d.d...G.F.G.F.G.F.G.F.G.F.G.F.G.F.G.F.G.F#N#o.o.F.G.F.G.F.G.F.G.F.G.F.a.F.G.H.G.F#Y.d.d.d.d",
+".d.d.d.d...F.D.F.G.F.D.F.G.F.D.F.G.F.D.F.G.F.Z#M#r.q.D.F.G.F.D.F.G.F.D.F.G.k.D.F.G.F.D#Y.d.d.d.d",
+".d.d.d.d...G.F.G.F.G.F.G.F.G.F.G.F.G.F.G.S#z#W#Y#e.D.a.p.F.G.F.G.F.G.s.h.#.G.F.G.F.G.F#Y.d.d.d.d",
+".d.d.d.d...F.D.F.N.F.D.F.N.F.D.F.N.F.D.Z#M#Y#R#u#d.n.a.f.a.#.a.#.a.g.o.s.N.F.F.F.N.F.F#Y.d.d.d.d",
+".d.d.d.d...G.F.G.F.G.F.G.F.G.F.G.F.G#v#Y#W#R#A#n.0.C.b.a.a.h.s.G.F.G.F.G.F.G.F.G.F.G.F#Y.d.d.d.d",
+".d.d.d.d#Y#Y#Y#Y#Y#Y#Y#Y#Y#Y#Y#Y#Y#A#X#V#R#F#z#e.Y.B.n.f.a.b.a#Y#Y#Y#Y#Y#Y#Y#Y#Y#Y#Y#Y#Y.d.d.d.d",
+".d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d#j#A#T#R#A#B#o#d.R.O.q.n.b.a.z.a.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d",
+".d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d#D#S#N#t#d.0.Y.R.C.n.f.#.U#g.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d",
+".d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d#k#b#q#a.O.r.g.f.M.V#h#y.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d",
+".d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d",
+".d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d"
+};
+SIMPLE  =                    T                                                  
+BITPIX  =                    8                                                  
+NAXIS   =                    2                                                  
+NAXIS1  =                   48                                                  
+NAXIS2  =                   48                                                  
+HISTORY Written by XV 3.10                                                      
+COMMENT the GIMP was here                                                       
+END                                                                             
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{
+{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{‹‘|I2>_‚¬{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{
+{{´êÑž|bZQ8'Y{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{Š·ââ·º•|QI/'0{{{{{{{{{{{{{{{{
+{{{{ÿÿÿÿÿÿÿÿÿÿÿÿÿ·öðâ½¯„Z5'ÿÿÿÿÿÿÿÿÿÿÿÿÿ{{{{{{{{€FCFCFCFCFCFCF©ÿùâ·b85F
+CFCFCFCFCFCÿ{{{{{{{{€C:C@C:C@C:C@C:\Îÿâ¦|')5@CCC@CCÿ{{{{{{{{€FCFCFCFCFCF
+CFCFW¯ùÿ„:,CFCFCF5FCFCFCÿ{{{{{{{{€C:CFC:CFC:CFC:CFC\Î•/:CFC:CFC:CF$:CFC:ÿ{{{{
+{{{{€FCFCFCFCFCFCFCFCFCÑ•)CFCFCFCFCFCCFKFCÿ{{{{{{{{€CFCCCFCCCFCCCFCCCF½¤!FCCCFC
+CCFC)!FCCCFÿ{{{{{{{{€FKFFFKFFFKFFFKF@7,,7KFFFKF5KFFFKÿ{{{{{{{{€KFCFKFCFKFC
+FKm5Ib‚žÀ¦qQ!,CFKFCKFCFKFÿ{{{{{{{{€FFFKFFFKFFFKm·kI5FFKFvºº27KFFF,$,FKFFÿ{{{{
+{{{{€KFKFKFKFKFKm½bFKFKFKFK•ºI5KFKFK)ÿ{{{{{{{{€FKNFFKNFFKN·kNFFKNFFFNFFºK
+!7FNFFFNFFFÿ{{{{{{{{€KFKFKFKFKF_Ñ5KFKFKFKFKFKF¯8!FKFKFKFKFÿ{{{{{{{{€NFNKNFNKNFŠ
+•FNK@,,@NFhbFNNNFNNNFÿ{{{{{{{{€KNKFKNKFKNÈ'!NKNhZ@'5NKÀNKFKNKFKNÿ{{{{{{{{€NFNFNFNFNFÿ7FW~À„kC)!$=N·FNFNFNFNFÿ{{{{{{{{€KNKNKNKNKNÿ=N˜ÈÙµ|Z@/)K•NKNKNKNKNÿ{{{{{{{{€NFNQNFNQNFÿNFÿêâÈbZ/NFNQNFNQNFÿ{{{{{{{{€KNKNKNKNKNÿKNÿèðÀ•bW8K‚NKNKNKNKNÿ{{{{{{{{€NNNNNNNNNNÿNNÿùâÈžbZ@NsNNNNNNNNNÿ{{{{{{{{€NNKNNNKNNNÿNNÿððÆ›kQ8KkNKNNNKNNNÿ{{{{{{{{€NNNQNNNQNNÿNNÿùèÈ•eZ8NeNNQNNNQNNÿ{{{{{{{{€TNNNTNNNTNÿTNÿöðÀ•bW8NbNNNTNNNTNÿ{{{{{{{{€NQWNNQWNNQÿNQÿùâ·bZ2WbQWNWQWNWQÿ{{{{{{{{€NNNNNNNNNNÿNNÿöß¯kk@NkNNNNNNNNNÿ{{{{{{{{€WQWQWQWQWQÿWQÿùÿbk/WeQWQWQWQWQÿ{{{{{{{{€NWNNNWNNNWÿÿbhÀ½b½kWNNNWNNNWÿ{{{{{{{{€WQWNWQWNWQÿWQkùÿbkkWbQWNWQWNWQÿ{{{{{{{{€NNNWNNNWNNÿNNÿkbÀ½k½bbNkNNWNNNWNNÿ{{{{{{{{€WQWQWQWQWQWQWQkùÿbkkWQWQWQWQWQWQÿ{{{{{{{{€NWNNNWNNNWNNNWÿbhÀ½b½khNNNWNNNWNNNWÿ{{{{{{{{€WQWNWQWNWQWNWQkùÿbkkWNWQWNWQWNWQÿ{{{{{{{{€NNNWNNNWNNNWNNÿkbÀ½k½bbNWNNNWNNNWNNÿ{{{{{{{{€WQWQWQWQWQWQWQkùÿbkkWQWQWQWQWQWQÿ{{{{{{{{€NWNNNWNNNWNNNWÿbhÀ½b½khNNNWNNNWNNNWÿ{{{{{{{{€WQWNWQWNWQWNWQkùÿbkkWNWQWNWQWNWQÿ{{{{{{{{€NNNWNNNWNNNWNNÿkbÀ½k½bbNWNNNWNNNWNNÿ{{{{{{{{€€€€€€€€€€€€€€€kùÿbkk€€€€€€€€€€€€ÿ{{{{{{{{{{{{{{{{{{{{{{{µÀhÀ½b½Q8h5{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{Èùâ•k!:c{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{Áù×žÀž`88{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{ÈÃ{ùâ¦:†{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€

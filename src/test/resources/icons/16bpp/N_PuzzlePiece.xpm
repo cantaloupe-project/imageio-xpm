@@ -1,0 +1,135 @@
+/* XPM */
+static char *N_PuzzlePiece[] = {
+/* width height num_colors chars_per_pixel */
+"    32    32       48            1",
+/* colors */
+". c #000000",
+"# c #ffff00",
+"a c #8a8a00",
+"b c #242400",
+"c c #545400",
+"d c #ff2424",
+"e c #090909",
+"f c #090000",
+"g c #000009",
+"h c #000900",
+"i c #161616",
+"j c #160000",
+"k c #ffc324",
+"l c #c38a54",
+"m c #242424",
+"n c #545424",
+"o c #240000",
+"p c #340000",
+"q c #343434",
+"r c #440000",
+"s c #444444",
+"t c #c38a00",
+"u c #545454",
+"v c #ffff54",
+"w c #666666",
+"x c #660000",
+"y c #ffc354",
+"z c #542400",
+"A c #777777",
+"B c #8a8a8a",
+"C c #c3c38a",
+"D c #8a2424",
+"E c #ff5424",
+"F c #c35400",
+"G c #9c9c9c",
+"H c #ff5400",
+"I c #8a2400",
+"J c #afafaf",
+"K c #c35424",
+"L c #c3c3c3",
+"M c #ffffc3",
+"N c #c32424",
+"O c #d6d6d6",
+"P c #ff2400",
+"Q c #c32400",
+"R c #eaeaea",
+"S c #8a5424",
+"T c None",
+/* pixels */
+"TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT",
+"TTTTTTTTTTTTTTTTTTTJTTTTTTTTTTTT",
+"TTTTTTTTTTTTTTTTTRBiBRTTTTTTTTTT",
+"TTTTTTTTTTTTTTTRBm..iJTTTTTTTTTT",
+"TTTTTTTTTTTTTRGm.rSp.sOTTTTTTTTT",
+"TTTTTTTTTTTRGq...KEI.eGTTTTTTTTT",
+"TTTTTTTTTTLue....pEKj.qOTTTRTTTT",
+"TTTTTTTRLwe.......IEI..BTTMyCTTT",
+"TTTTTTLwe.........eEKp.sOMk#aGRT",
+"TTTTOAi............IED.elv#tbqLT",
+"TRRBi..............eFEz.btac.qBR",
+"TOs.jf..............NKN..isnquBR",
+"TTs.zKQzpe..........oFEz.iwGGBOT",
+"TTJe.DEEKQDzp........IKN..uOTRTT",
+"TTTu.rKQKEEEKKIzo....jFEz.iLTTTT",
+"TTTJe.IEKIINQEEEKKIzogIKNf.uRTTT",
+"TTTTu.eKPD.hjzIDFdEKKKDKHz.iLTTT",
+"TTTTJi.IKKo....fezINHEHNKNj.wOTT",
+"TTTTTw.oFEI.....f..fexDFEEI.eJTT",
+"TTTTTOi.DEKp......eiih.frzDj.wOT",
+"TTTTTTA.jFEI.....muwAw.....muwJT",
+"TTTTTTRm.xKEp...iuALRJe..isuwGOT",
+"TTTTTTTAgeQED...iALTTu.equwBOTTT",
+"TTTTTTTRm.zKKz...sJTRAsuwBLRTTTT",
+"TTTTTTTTB..NHN....iOTTJGLTTTTTTT",
+"TTTTTTTTRq.rKEz..eqARTTRTTTTTTTT",
+"TTTTTTTTTGehQKr.mswBRTTTTTTTTTTT",
+"TTTTTTTTTRs.e.iswAGRTTTTTTTTTTTT",
+"TTTTTTTTTTG.muuAJOTTTTTTTTTTTTTT",
+"TTTTTTTTTTRBwwGOTTTTTTTTTTTTTTTT",
+"TTTTTTTTTTTRJOTTTTTTTTTTTTTTTTTT",
+"TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT"
+};
+SIMPLE  =                    T                                                  
+BITPIX  =                    8                                                  
+NAXIS   =                    2                                                  
+NAXIS1  =                   32                                                  
+NAXIS2  =                   32                                                  
+HISTORY Written by XV 3.10                                                      
+END                                                                             
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿê¯ÖÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿêŠffœÖ
+ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿœ€$TTw¯ÖÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿêD€	€Dfwœêÿÿÿÿÿÿÿÿÿÿÿÿ
+ÿÿÿÿÿÿÿÿÿœ	Ur€$DfŠêÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿê4€r‡.€€	4wêÿÿêÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿŠ€€ZZ€€
+€€Öÿÿ¯œÃÿÿÿÿÿÿÿÿÿÿÿÿÿÿê$€.rr.€€€D¯ÿêwDTfŠÃêÿÿÿÿÿÿÿÿÿÿÿw	U‡G€€€wÃÿÿT€	4TfŠÖÿÿÿ
+ÿÿÿÿÿÿê$€#r‡€€€TwÃê¯	€€DTfœÖÿÿÿÿÿÿÿw€m‡A€€€€€$Tfwf€€€€€$Tf¯ÿÿÿÿÿÿÖ€G‡r€€€€
+€€	€.G€fÖÿÿÿÿÿÿf€m‡A€€€€€€€	#Gm‡‡A€	¯ÿÿÿÿÿÿ¯€Arr€€€€	.AZ‡ZrZ€fÖÿÿ
+ÿÿÿÿT€	riG€.AGmo‡rrrGr.€Ãÿÿÿÿÿÿ¯	€A‡rAAZU‡‡‡rrA.ArZ€TêÿÿÿÿÿÿT€rUr‡‡‡rrA.
+€€€€m‡.€Ãÿÿÿÿÿÿ¯	€G‡‡rUG.€€€€€€€€ArZ€€TÖÿêÿÿÿÿD€.rU.	€€€€€€€€€€m‡.€fœœŠÖÿ
+ÿÖD€€€€€€€€€€€€€€€ZrZ€€DL4TŠêÿêêŠ€€€€€€€€€€€€€€	m‡.€ˆtF€4ŠêÿÿÿÿÖw€€€€€€€€€
+€€€A‡G€	•ä×ˆ4ÃÿÿÿÿÿÿÿÃf	€€€€€€€€€	‡r€DÖõ¾×tœêÿÿÿÿÿÿÿÿêÃf	€€€€€€€A‡A€€ŠÿÿõÆºÿÿÿ
+ÿÿÿÿÿÿÿÿÿÿÃT	€€€€‡r€4Öÿÿÿêÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿêœ4€€€r‡A€	œÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿêœ$
+€_€DÖÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿêŠ$€€¯ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿêŠŠêÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ¯ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€

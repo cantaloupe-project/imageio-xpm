@@ -1,0 +1,125 @@
+/* XPM */
+static char *toaster[] = {
+/* width height num_colors chars_per_pixel */
+"    48    48       22            1",
+/* colors */
+". c #000000",
+"# c #000700",
+"a c None",
+"b c #101710",
+"c c #1f1f1f",
+"d c #202720",
+"e c #2f2f2f",
+"f c #3f3f3f",
+"g c #4f4f4f",
+"h c #505750",
+"i c #606760",
+"j c #6f6f6f",
+"k c #707770",
+"l c #808780",
+"m c #8f8f8f",
+"n c #909790",
+"o c #9f9fa0",
+"p c #afafaf",
+"q c #bfbfbf",
+"r c #cfcfcf",
+"s c #d0d7d0",
+"t c #dfdfdf",
+/* pixels */
+"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+"aaaaaaaaaaaaaaaaaaaaaaaaaqnprssaaaaaaaaaaaaaaaaa",
+"aaaaaaaaaaaaaaaaaaaaaaaqoiefimpqsaaaaaaaaaaaaaaa",
+"aaaaaaaaaaaaaaaaaaaaaqojebbcfhlmqstaaaaaaaaaaaaa",
+"aaaaaaaaaaaaaaaaaaaqpkfcbbfhkmpnijpssaaaaaaaaaaa",
+"aaaaaaaaaaaaaaaaaqpkfcbbchklppkdbbchqssaaaaaaaaa",
+"aaaaaaaaaaaaaaaqpmhccbbehknpnhb##..ckqssaaaaaaaa",
+"aaaaaaaaaaaaarqmhdcbbdhjknokc.#..cjlmprssaaaaaaa",
+"aaaaaaaaaaappljecbbgjklnnlf#...bhkkloqrqqsaaaaaa",
+"aaaaaaaaapppjed#bhmklmmmhb....fhklmoqqqqpqaaaaaa",
+"aaaaaaaapoppmjhmmlllmmic....chjlmnqrqpppmnaaaaaa",
+"aaaaaaappnoooppmmkmomd....bgijmmoqrqqpmmkmaaaaaa",
+"aaaaaaopponmmmmnmpql#....fjkklnprrqpmmkkkmaaaaaa",
+"aaaaapqqpnmmmmmmppjhf#.chilmmoqsqpnmlkklklaaaaaa",
+"aaaaarrssqpmmopqpkjhgfefilmmpsrpnmmlkkmmklaaaaaa",
+"aaaaprrrrssrpqqpmljijklmmoprsqommmkkklmlkmaaaaaa",
+"aaaassssrrsssqqpnmlklmmpqssrpmmmlkkklmmkkmaaaaaa",
+"aaaassssssssrssrpoomopqssrqpmmllkkklmmlkjmaaaaaa",
+"aaaasrssssssrssssqqprssrqqpmmlkkkklmmmlkjmaaaaaa",
+"aaaasrsssssqrsrrssrqrrqqppmlkkkklmmmmlkkjmaaaaaa",
+"aaaasrsrsssqssrrrrrqqpppomkkklmmmmmmmlkjilaaaaaa",
+"aaaasrsssssqssrrrrpnppommkklmmmmmmmmmkkjimaaaaaa",
+"aaaasrssrssqsrrrrrompnlkkkmmmmmmmmmmlkkjimaaaaaa",
+"aaaasrssroporrrrrrnkmkkklmmmmmmmmmmlkkkjiffaaaaa",
+"aaaasrsllfdfnrqqqpkiikmmmmmmmmmmmmllkkjiiccaaaaa",
+"aaaasrrhcccdfoqqqmiklmmmmmmmmmmmmlllkkjihhgaaaaa",
+"aaaarqqfcccddnpppomlmmmmmmmmmmmmmllkkjiigkaaaaaa",
+"aaaarqjcccdcipppppmlmmmmmmmmmmmmmlkkkjihggaaaaaa",
+"aaaaqibccccdkpppppnmmmmmmmmmmmmmmlkkjihgfaaaaaaa",
+"aaaaqlfbbccfmpppppnmmmmmmmmmmmmmlkkjihggfaaaaaaa",
+"aaaaqppkfcgmpqppppommmmmmmmmmmmlkkkihhffaaaaaaaa",
+"aaaaqppqpjmpqqppppommmmmmmmmmmmlkkjihffaaaaaaaaa",
+"aaaaqppopmooppppppommmmmmmmmlkkkkjihgfaaaaaaaaaa",
+"aaaaqhfdlknoppppppomnmmmmmkkkkkjjhfgfaaaaaaaaaaa",
+"aaaafcbciimoppppppommmmllkkkkjjihfffaaaaaaaaaaaa",
+"aaaafccemkmnppppppommlkkkkkkjiihggfaaaaaaaaaaaaa",
+"aaaajbcceiklnoppppmmlkkkkjjjhhhgffaaaaaaaaaaaaaa",
+"aaaaecccbfihjlooppmllkkjjiihhhgffaaaaaaaaaaaaaaa",
+"aaaafbcbbcdfjkkkmnmlkjkjihhhhgffaaaaaaaaaaaaaaaa",
+"aaaa#chhcbbbbfikmklkkjjihhhhffaaaaaaaaaaaaaaaaaa",
+"aaaaa#dkkfcbbbbdghkjjiihhggfaaaaaaaaaaaaaaaaaaaa",
+"aaaaaa#bckkebbcbbdkihhhhgfaaaaaaaaaaaaaaaaaaaaaa",
+"aaaaaaaaccfliecccdigghgfaaaaaaaaaaaaaaaaaaaaaaaa",
+"aaaaaaaaaacchojcbc###faaaaaaaaaaaaaaaaaaaaaaaaaa",
+"aaaaaaaaaaaaccc#aa##.aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+"aaaaaaaaaaaaaaaaaaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+};
+SIMPLE  =                    T                                                  
+BITPIX  =                    8                                                  
+NAXIS   =                    2                                                  
+NAXIS1  =                   48                                                  
+NAXIS2  =                   48                                                  
+HISTORY Written by XV 3.10                                                      
+END                                                                             
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS€SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+SS€SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSŸo?SSSSSSSSSSSSSSSSSSSSSSSSSS
+SSSSSSSS?ƒc/#cOOSO?SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSss/#scSSSSO?SSSSSS
+SSSSSSSSSSSSSSSSSSSSS#ss?#OSsooccSSOO?SSSSSSSSSSSSSSSSSSSSSSSSSS?cs
+sƒssoocSSSS??SSSSSSSSSSSSSSSSSSSSSS?#?osss“ƒsosocSSSSO??SSSSSSSSSSSSSSSS
+SSSS/?cSoƒŸŸ¯¯ƒƒssooccSSSO??SSSSSSSSSSSSSSSSSSSo/csƒ“Ÿ¯¯¯¯ƒssssoooSSSO
+??SSSSSSSSSSSSSSSSSS?/s“¯¯¯¯¯¯ŸƒssssssoccSOO?SSSSSSSSSSSSSSSSS?ccŸ¯¯¯¯
+¯¯ŸƒƒssssoocS???SSSSSSSSSSSSSSSS¿S?#ƒs“Ÿ¯¯¯¯¯¯Ÿ“sssssooS?O?SSSSSSSSSSS
+SSSS¿¯¯Ÿ¯ŸŸ¯¯¯¯¯¯ŸƒssssocSO?SSSSSSSSSSSSSS¿¯¯¿¯o¯¿¿¯¯¯¯Ÿƒ
+ssocS??SSSSSSSSSSSSS¿¯¯s?O¯¿¯¯¯¯ŸƒssscSS??SSSSSSSSSSSS¿ƒ??¯¯¯
+¯¯“ƒssocSOO?SSSSSSSSSSS¿c#s¯¯¯¯¯“ƒssocSO?SSSSSSSSSSSÏ¿o#c¯¯¯¯¯ƒƒsssocSOOSSSSSSSSSSÏ¿¿?##“¯¯¯ŸƒƒƒssoccOsSSSSSSSSSSÓÏÏS#?Ÿ¿¿¿csƒƒƒƒssocSSOSSSSSSSSSÓÏÓƒƒ?#?“Ï¿¿¿¯sccsƒƒssoccSSSSSSSSSÓÏÓÓÏŸ¯ŸÏÏÏÏÏÏ“ssssƒƒsssoc??SSSSSSSSSÓÏÓÓÏÓÓ¿ÓÏÏÏÏÏŸ¯“ƒsssƒssocSSSSSSSSSSÓÏÓÓÓÓÓ¿ÓÓÏÏÏÏ¯“¯¯ŸssƒssocSSSSSSSSSSÓÏÓÏÓÓÓ¿ÓÓÏÏÏÏÏ¿¿¯¯¯ŸsssƒƒsocƒSSSSSSSSSSÓÏÓÓÓÓÓ¿ÏÓÏÏÓÓÏ¿ÏÏ¿¿¯¯ƒssssƒƒssoSSSSSSSSSSÓÏÓÓÓÓÓÓÏÓÓÓÓ¿¿¯ÏÓÓÏ¿¿¯ƒssssƒƒsoSSSSSSSSSSÓÓÓÓÓÓÓÓÏÓÓÏ¯ŸŸŸ¯¿ÓÓÏ¿¯ƒƒsssƒƒsoSSSSSSSSSSÓÓÓÓÏÏÓÓÓ¿¿¯“ƒsƒ¯¿ÓÓÏ¯ƒsssƒssSSSSSSSSSS¯ÏÏÏÏÓÓÏ¯¿¿¯ƒocosƒŸ¯ÏÓ¿ŸsssƒƒsSSSSSSSSSSSÏÏÓÓ¿¯Ÿ¯¿¯soSO?/?cƒ¯ÓÏ¯“ƒsssƒSSSSSSSSSSS¯¿¿¯“¯¯oS?€ScƒŸ¿Ó¿¯“ƒssƒsƒSSSSSSSSSSSSŸ¯¯Ÿ““¯¿ƒ€€€€?ossƒ“¯ÏÏ¿¯sssSSSSSSSSSSSSS¯¯“ŸŸŸ¯¯sŸ#€€€€OcoŸ¿Ï¿¿¯sSSSSSSSSSSSSSS¯Ÿ¯¯oSƒƒƒc€€€€Soƒ“¿Ï¿¯¯¯“SSSSSSSSSSSSSSS¯¯¯o/#SsƒS€€€€?SsƒŸ¿¿¿¿¯¿SSSSSSSSSSSSSSSSS¯¯ƒo/Oosƒ““ƒ?€€€SssƒŸ¿Ï¿¿ÓSSSSSSSSSSSSSSSSSSSÏ¿S##Sos“Ÿs€€€oƒ¯ÏÓÓSSSSSSSSSSSSSSSSSSSSSS¿¯S/Ss“¯“S€€s¿ÓÓSSSSSSSSSSSSSSSSSSSSSSSSS¿¯s?Ssƒ¯¯s#S¿ÓÓSSSSSSSSSSSSSSSSSSSSSSSSSSSS¿¯s??Ss¯“co¯ÓÓSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS¿Ÿo/?Sƒ¿ÓßSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS¿Ÿc/?c¯¿ÓSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS¿“¯ÏÓÓSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€

@@ -1,0 +1,5 @@
+# Maven stuff
+/target
+
+# IDE stuff
+/*.iml

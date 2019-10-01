@@ -1,0 +1,120 @@
+/* XPM */
+static char *plaintext[] = {
+/* width height num_colors chars_per_pixel */
+"    48    48       17            1",
+/* colors */
+". c #000000",
+"# c #000800",
+"a c None",
+"b c #101000",
+"c c #101f1f",
+"d c #1f1f20",
+"e c #20084f",
+"f c #201740",
+"g c #202720",
+"h c #202810",
+"i c #30383f",
+"j c #3f403f",
+"k c #402000",
+"l c #4f1070",
+"m c #4f4f4f",
+"n c #80088f",
+"o c #f0fff0",
+/* pixels */
+"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+"aammmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmaaaa",
+"aamoooooooooooooooooooooooooooooooooooooooo.haaa",
+"aamoooooooooooooooooooooooooooooooooooooooo.hmaa",
+"aamoooooooooooooooooooooooooooooooooooooooo.hmaa",
+"aamoooooooooooooooooooooooooooooooooooooooo.hmaa",
+"aamoooooooooooooooooooooooooooooooooooooooo.hmaa",
+"aamooollolllloolllllolllllolllllolllloooooo.hmaa",
+"aamoooooooooooooooooooooooooooooooooooooooo.hmaa",
+"aamooolllllllollolllllllllloooooooooooooooo.hmaa",
+"aamoooooooooooooooooooooooooooooooooooooooo.hmaa",
+"aamooolllllolllllllllllollllllllllllllllloo.hmaa",
+"aamoooooooooooooooooooooooooooooooooooooooo.hmaa",
+"aamoooooollllllllllolllllllllollllooloooooo.hmaa",
+"aamoooooooooooooooooooooooooooooooooooooooo.hmaa",
+"aamooollllllllllllllllolllllllllllolllloooo.hmaa",
+"aamoooooooooooooooooooooooooooooooooooooooo.cmaa",
+"aamooollolllollllllllllnolllloooooooooooooo.cmaa",
+"aamoooooooooooooooooooooooooooooooooooooooo.cmaa",
+"aamooollllllnolooolloolllllllllllollllloooo.cjaa",
+"aamoooooooooooooooooooooooooooooooooooooooo.cjaa",
+"aamooollolllllolllllolllllllllllllllooooooo.cjaa",
+"aamoooooooooooooooooooooooooooooooooooooooo.cjaa",
+"aamooolllllllllllllllllllolllllolllollllloo.cjaa",
+"aamoooooooooooooooooooooooooooooooooooooooo.cjaa",
+"aamooogfkfgfkfgfoogfooooooooooooooooooooooo.cjaa",
+"aamoooooooooooooooooooooooooooooooooooooooo.cjaa",
+"aamoooooooookeofkekfkekfoekfkeooooooooooooo.cjaa",
+"aamoooooooooooooooooooooooooooooooooooooooo.cjaa",
+"aamooollllllllllolllllllllllllllfoolllooooo.cjaa",
+"aamoooooooooooooooooooooooooooooooooooooooo.cjaa",
+"aamooodbdbobdbdbdbooolllooooooooooooooooooo.cjaa",
+"aamoooooooooooooooooooooooooooooooooooooooo.cjaa",
+"aamooolllolllllollllllo##oooooooooooooooooo.ciaa",
+"aamoooooooooooooooooooooooooooooooooooooooo.ciaa",
+"aamooooooooollllollllllollllllollllll#ooooo.ciaa",
+"aamoooooooooooooooooooooooooooooooooooooooo.ciaa",
+"aamooo#olllllllllllllllllo##o###olllllllooo.ciaa",
+"aamoooooooooooooooooooooooooooooooooooooooo.ciaa",
+"aamoooooooooooooooooooooooooooooooooooooooo.ciaa",
+"aamoooooooooooooooooooooooooooooooooooooooo.ciaa",
+"aamoooooooooooooooooooooooooooooooooooooooo.ciaa",
+"aam.........................................ciaa",
+"aaahhhhhhhhhhcccccccccccccccccccccccccccccccciaa",
+"aaaammmmmmmmmmmmmjjjjjjjjjjjjjjjiiiiiiiiiiiiiiaa",
+"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+};
+SIMPLE  =                    T                                                  
+BITPIX  =                    8                                                  
+NAXIS   =                    2                                                  
+NAXIS1  =                   48                                                  
+NAXIS2  =                   48                                                  
+HISTORY Written by XV 3.10                                                      
+END                                                                             
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+SSSSSSSSSSSSSSSSSSSSOOOOOOOOOOOOO???????????????66666666666666SSSSS!!!!!!!!!!
+6SSSSO€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€6SS
+SSO÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷€6SSSSO÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷
+÷÷÷÷÷÷÷÷÷÷÷€6SSSSO÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷€6SSSSO÷÷÷÷÷÷÷÷÷÷÷÷÷
+÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷€6SSSSO÷÷÷÷44444444444444444÷÷÷4444444÷÷÷€6SS
+SSO÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷€6SSSSO÷÷÷÷÷÷÷÷÷4444÷444444÷444444÷4
+44444÷÷÷÷÷€6SSSSO÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷€6SSSSO÷÷÷444÷44444÷
+444444÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷€6SSSSO÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷€?SS
+SSO÷÷÷÷÷÷÷444÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷€?SSSSO÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷
+÷÷÷÷÷÷÷÷÷÷÷€?SSSSO÷÷÷4444444444÷444444444444444 ÷÷444÷÷÷÷÷€?SSSSO÷÷÷÷÷÷÷÷÷÷÷÷÷
+÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷€?SSSSO÷÷÷÷÷÷÷÷÷&÷ && && ÷& &÷÷÷÷÷÷÷÷÷÷÷÷÷€?SSSSO÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷€?SSSSO÷÷÷# & # & # ÷÷# ÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷€?SSSSO÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷€?SSSSO÷÷÷4444444444444444444÷44444÷444÷44444÷÷€?SSSSO÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷€?SSSSO÷÷÷44÷44444÷44444÷444444444444444÷÷÷÷÷÷÷€?SSSSO÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷€?SSSSO÷÷÷444444F÷4÷÷÷44÷÷44444444444÷44444÷÷÷÷€?SSSSO÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷€OSSSSO÷÷÷44÷444÷4444444444F÷4444÷÷÷÷÷÷÷÷÷÷÷÷÷÷€OSSSSO÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷€OSSSSO÷÷÷4444444444444444÷44444444444÷4444÷÷÷÷€!OSSSSO÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷€!OSSSSO÷÷÷÷÷÷4444444444÷444444444÷4444÷÷4÷÷÷÷÷÷€!OSSSSO÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷€!OSSSSO÷÷÷44444÷44444444444÷44444444444444444÷÷€!OSSSSO÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷€!OSSSSO÷÷÷4444444÷44÷4444444444÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷€!OSSSSO÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷€!OSSSSO÷÷÷44÷4444÷÷44444÷44444÷44444÷4444÷÷÷÷÷÷€!OSSSSO÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷€!OSSSSO÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷€!OSSSSO÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷€!OSSSSO÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷€!OSSSSO÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷€!SSSSSOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€

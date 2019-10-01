@@ -1,0 +1,201 @@
+/* XPM */
+static char *Dots[] = {
+/* width height num_colors chars_per_pixel */
+"    48    48       98            2",
+/* colors */
+".. c None",
+".# c #002400",
+".a c #242400",
+".b c #242455",
+".c c #2424aa",
+".d c #244855",
+".e c #2448aa",
+".f c #2448ff",
+".g c #246dff",
+".h c #249100",
+".i c #249155",
+".j c #24b655",
+".k c #24da55",
+".l c #480000",
+".m c #4800aa",
+".n c #482455",
+".o c #484855",
+".p c #4848aa",
+".q c #4848ff",
+".r c #486d55",
+".s c #486daa",
+".t c #486dff",
+".u c #489155",
+".v c #48b655",
+".w c #48b6ff",
+".x c #48da55",
+".y c #48ff55",
+".z c #48ffaa",
+".A c #6d0000",
+".B c #6d0055",
+".C c #6d00aa",
+".D c #6d2400",
+".E c #6d2455",
+".F c #6d24aa",
+".G c #6d4855",
+".H c #6d48aa",
+".I c #6d48ff",
+".J c #6d6d55",
+".K c #6d6dff",
+".L c #6d9155",
+".M c #6d91aa",
+".N c #6d91ff",
+".O c #6db6aa",
+".P c #6db6ff",
+".Q c #6dff55",
+".R c #6dffaa",
+".S c #910000",
+".T c #910055",
+".U c #9100aa",
+".V c #912400",
+".W c #912455",
+".X c #9124aa",
+".Y c #914855",
+".Z c #9148aa",
+".0 c #916d55",
+".1 c #916daa",
+".2 c #916dff",
+".3 c #9191ff",
+".4 c #91b6aa",
+".5 c #91b6ff",
+".6 c #91daff",
+".7 c #91ffaa",
+".8 c #91ffff",
+".9 c #b60000",
+"#. c #b60055",
+"## c #b62455",
+"#a c #b648aa",
+"#b c #b66d55",
+"#c c #b66daa",
+"#d c #b66dff",
+"#e c #b691aa",
+"#f c #b691ff",
+"#g c #b6b6aa",
+"#h c #b6b6ff",
+"#i c #b6daff",
+"#j c #b6ffaa",
+"#k c #b6ffff",
+"#l c #da0000",
+"#m c #da0055",
+"#n c #da2400",
+"#o c #da2455",
+"#p c #da4855",
+"#q c #da48aa",
+"#r c #da6d55",
+"#s c #da6daa",
+"#t c #da6dff",
+"#u c #da91aa",
+"#v c #da91ff",
+"#w c #dab6aa",
+"#x c #dab6ff",
+"#y c #dadaff",
+"#z c #daffff",
+"#A c #ff0000",
+"#B c #ff4855",
+"#C c #ff91ff",
+"#D c #ffb6ff",
+"#E c #ffdaff",
+"#F c #ffffff",
+/* pixels */
+"................................................................................................",
+"...................................................r.L.r.u.r.L..................................",
+"...............................................h.i.j.v.y.y.y.x.j.r..............................",
+".............................................u.j.k.y.y.R.R.R.R.y.x..............................",
+".............................................i.x.y.R.R.7.7.7.7.R.R.x............................",
+".....................................o.o.o.i.j.x.y.R.R.7#k#z#z#k.R.y.j..........................",
+"...................................o.o.o.o.i.v.y.R.R.7.7#z#z#F#z.7.y.x..........................",
+"...................................o.o.o.o.i.x.y.R.R.7#j#k#z#z#z.7.R.y.........................w",
+".................................o.o.o.o.o.i.x.y.R.R.7.7#j#j#k.7.7.Q.x.......................w.w",
+"...............................o.o.o.o.o.o.i.k.x.y.R.R.7.7.7.7.7.R.z.x................#h.w.w#i.w",
+"...............................o.o.o.o.o.o.i.v.x.y.Q.R.R.7.7.7.R.R.x.v.............O.w.w.6.6#i.w",
+"...........G.Z.Z.Z.Z.Z.........o.o.o.o.o.o.o.j.v.y.y.y.R.R.R.R.R.y.v..........#h.w.w.8.6.6.6#i.w",
+".........Y.Z#a#c#s#c#c.Z#c.....o.o.o.o.o.o.o.i.j.x.x.y.y.Q.Q.y.y.x.j.......M.w.w#i.6#i.6#i.6#i.w",
+".......X.Z#c#e#v#v#v#v#d#c.G...o.o.o.o.o.o.o.o.i.j.v.j.x.x.x.k.j.i.....5.w.w.6.6.6.6.6.6.8#i#i.w",
+".....n.Z#a#c#v#v#D#D#C#v#c.Z...o.o.o.o.o.o.o.o.o.d.i.i.i.u.i.i.....P.w.w.6.6#i.6#i.6#i.6#i.6#i.w",
+"...o.o.Z#c#v#x#D#E#E#E#C#v#a.....o.o.o.o.o.o.o.o.o.o.o.o.......5.w.w.6.6.6.6.8#i.6.6.8.6.6#i#i.w",
+"...o.G.Z#c#v#C#D#E#F#E#D#v#c.......o.o.o.o.o.o.o.o.o.o.o...O.w.w.6.6.6.6#i.6#i.6#i#i#i#i#i#i#i.w",
+"...o.o#a#c#v#x#D#E#E#E#D#v#c.......o.o.o.o.o.o.o.o.o.o#h.w.w.6.6.6.6.6.6.8#i.6#i.8#i.6#i#k#i#i.w",
+"...o.E.Z#c#v#v#D#D#D#D#v#t#c...........o.o.o.o.o.o.O.w.w.6.6#i.6#i.6#i.6#i.6#i.6#i.6#i#i#i#i#i.w",
+"...o.o.Z.1#d#v#v#v#v#v#v#c.Z...................5.w.w.6.6.6.6.8.6.6.6.8#i.6#i.8#i.8#i#k#i#k#i#i.w",
+"...o.o.G.Z#c#c#c#t#v#s#c#a.1...............O.w.w.6.6.6.6#i.6#i.6#i.6#i.6#i.6#i#i#i#i#i#k#i#i#i.w",
+"...o.o.o.G.Z.Z#a#c#c.1.Z.J.............5.w.w.6.6.6.6.6.6.8#i.6#i.8#i.6.U.Z.1#.#a#k#i#k#i#k#i#i.w",
+"...o.o.o.n.o.X.Z.Z.Z.X.J...........O.w.w.6.6#i.6#i.6#i.6#i.6.5.5#h.B.T.E.T.T#.#.#.#c#i#i#i#k#i.w",
+".....o.o.o.o.o.o.o.o.o.........5.w.w.6.6.6.6.8.6.6.6.8#i.6.5.6.C.C.Z.1.1#c.T#.#.#.#m#l#h#k#i#i.w",
+".......o.o.o.o.o.o.........O.w.w.6.6.6.6#i.6#i.6#i.6.5.6.C.C.C.C.1.5#i#k#i#h#c#.#m.9#l#p#i#k#i.w",
+"......................#g.w.w.6.6.6.6.6.6.8#i.6#i.6.5.m.m.m.C.C.5#k#i#k#i#k#i#e#.#.#m#l#l#p#i#i.w",
+"........................#g.w#i.6#i.6#i.6#i.6#i.6.5.m.F.H.m.m.C.C#i#k#i#i#i#k#i#c#..9#l#l#o#k#z.w",
+"...........................P.w.6.6.6.8#i#i#i.8#i.8#i.K.F.m.C.C.C#k#i#k#i#k#i#k#h#.#m#l#l#l#p#z.w",
+".............................5#i#i.6#i.6#i#i#i#i#i#i#i.H.F.C.C.C#h#i#i#k#i#k#i#i#c.9#l#l#A#r#z.w",
+".............................a.w.8#i.6#i#i#i.8#i#k#i#k.2.F.C.C.C.1#i#k#i#k#i#k#i#h#m#l#l#l#B#z.w",
+"...............................O.w.6#i#i#i#i#i#i#i#i#i.5.m.m.C.C.C#k#i#k#i#k#i#k#i#m#l#l#l#n#z.w",
+"...................b.s.p.r...#.a.w#i.8#i.8#i#k#i#k#i#k.5.K.C.C.C.C#i#k#k#k#i#k#k#k###l#l#l#p#z.w",
+"...............e.q.t.K.5.K.q...a.4.w#i#i#i#i#i#i#i#i#i#k.I.C.C.C.C#h#i#k#i#k#i#k#y.9#l#l#A#o#z.w",
+".............o.f.t.K.3#y#y.K...a.a.w#k#i#k#i#k#i#k#i#k#i.2.F.C.C.C#f#k#i#k#k#k#k#k#c#l#l#l#p#z.w",
+".............o.q.K.N.3#y#y.N.p...n.O.w#i#i#k#i#i#i#k#i#k.3.m.C.C.C.Z#y#k#y#k#y#k#y.9#l#l#l#u#z.w",
+".............o.q.t.K.N.3.N.K.g...#.a.w#i#i#i#k#i#k#i#k#k.3.C.C.C.C.U#k#k#k#k#k#z#i#m#l#l#l#w#z.w",
+"...........o.o.e.q.t.t.t.q.q.o.......5.w#i#i#i#i#i#k#i#k#i.H.C.C.C.Z#h#k#y#k#z#k#s.9#l#o#A#z#z.w",
+".............o.c.e.q.f.q.f.c.r.......a.w.w#i#i#i#k#k#k#i#k.C.C.C.C.U#h#z#k#z#k#z#c#m#l#A#u#z#z.w",
+".............o.o.o.c.c.c.b.r.........a.E.G.0#h#k#i#k#y#k#y.Z.C.C.C.B#f#k#z#k#y#e#q.9#m#w#z#z#z.w",
+".................o.o.o.o.............D#b#w.W.A#i#k#k#k#k#k.2.C.C.C.U.X#z#k#z#k#.#.#A#u#z#z#z#z.w",
+"...................................o.S#b#s.Y.S.4#y#k#y#k#y#k.F.C.C.T#a#z#z#h#a###s#s#z#z#z#z#z.w",
+"...................................o.A.W.V.V.A#k#k#z#k#z#k#z.C.C.C.U.X#y#h#.#.#x#z#z#z#z#z#z#z.w",
+"...................................o.l.A.S.l.p#k#y#k#y#k#z#k.C.C.C.B.T.T.T#h#z#z#z#z#z#z#z#z#z.w",
+"...................................o.o.o.o.o.d.w#k#z#k#z#k#z.F.C.C.U.T#x#z#z#z#z#z#z#z#z#z#z#z.w",
+".............................................n.w#i#i#z#z#z#h.C.C.C#i#z#z#z#z#z#z#z#z#z#z#z#z#z.w",
+"...............................................a.w#z#k#z#z#h#h#h#z#z#z#z#z#z#z#z#z#z#z#z#z#z#z.w",
+"...............................................a.5.w#z#z#z#z#z#z#z#z#z#z#z#z#z#z#z#z#z#z#z#z#z.w",
+".................................................#.a.w.w.w.w.w.w.w.w.w.w.w.w.w.w.w.w.w.w.w.w.w.w"
+};
+SIMPLE  =                    T                                                  
+BITPIX  =                    8                                                  
+NAXIS   =                    2                                                  
+NAXIS1  =                   48                                                  
+NAXIS2  =                   48                                                  
+HISTORY Written by XV 3.10                                                      
+COMMENT the GIMP was here                                                       
+END                                                                             
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+€€€€€€€€€€€€€€€€€€€€€€€€››››››››››››››››››››››€€€€€€€€€€€€€€€€€€€€€€€´›òòòòòò
+òòòòòòòòòòòòòòò›€€€€€€€€€€€€€€€€€€€€€€€›òåòòÁÁÁòòòòòòòòòòòòòòò›€€€€€€€€€€€€€€€€
+€€€€€€8›ÓÓòòòÁ@@@Óòòòòòòòòòòòòò›€€€€€€€€€€€€€€€€€JJJJJ=›åòåòåòR@@L?Íòòòòòòòòòòò›
+€€€€€€€€€€€€€€€€€J%1Wåßåßåòå@@@2???Áòòòòòòòòò›€€€€€€€€€€€€€€€€€J%QCC%ååòåòåò@@
+@L^ßÁKKÍòòòòòòò›€€€€€€€€€€€€€€€€€J1‚œc1§ßåßåßåR@@?}òòÁ}]œœòòòòò›€€€€€€€€JJJJ€€€€
+€€7‚ÀQ%Óååååå@@@L^òåòåKKW®òòòò›€€€€€€JJJ888+\€€€€DVuÁåÓåßåßp@@@2®åòåß¡‰>XÀòòò›
+€€€€€€J8JdXdX8\€€€››ÓÓÓåååÓå@@@@LÁòåòåòXJW®òò›€€€€€JJJdwwwddJ€€€´›ÓÓÓÓÓåÓåÓd@@
+@pÁåßåòåœ>JjWòò›€€€€€€Jdwƒ•¢•ƒj€›ÓÓÓåÓåÓåå¢@@@@LåååååòÓXJJJÀò›€€€€€€Jdƒ•¢ßß•W€
+8››ÓÓåÓÓÓåÓå¢3@@@pßåßåßåß>JJJ®ò›€€€€€€JXwƒ¢ßßƒ€›åÓåÓåÓåÓåÓR@@@®åÓåååååJJJ|ò›
+€€€€€€€Jdwƒ´ƒd€§›ÓÓÓÓÓÓÓÓÓåq@@@@ÁÓåÓåÓåß>JJWjò›€€€€€€€€€+iW\€›ÓÙÓÙÓåÓåÓå´ƒ@@@
+@ÓåååÓååå]JJJ|ò›€€€€€€€€€€€€€€€››ÆÓÓÓÓÓÓÓÓÓ´33@@@åÓåÓåÓåÓXJJJ\ò›€€€€€€€€€€€€€€›
+ÙÓÆÓÓÓÙÓåÓåR@@@‚ÓåÓåÓåÓÁXJJJˆò›€€€€€€€€€€€€€€´ÓÓÆÓÆÓÓÓÓÓÓÓdR@@@ÁÓÓåÓåÓÓ>JJWŽò›€€€€€€€€€€€€€¨›ÆÆÆÙÓÓÓÙÓÙÓƒR3@@@åÓåÓåÓåÁKXJJJ|ò›€€€€€€€€€€€€´›ÓÆÓÆÓÆÓÆÓÆ´3Rd33@@ÓåÓÓÓåÓK>JJjåò›€€€€€€€€€€€´››ÆÆÆÆÆÆÙÓÆÓÆ´333@@´åÓåÓåÓ¡KKXJJ|ÓÓ›€€€JJJJJJ€€€€›››ÆÆÆÆÓÆÓÆÓÆ´Æ@@@@‚´ÓåÓÁKX>J|ÓåÓ›€€JJJJJJJJJ€€€€´››ÆÆÆÆÙÆÆÆÙÓÆ´Æ@@p‚‚?KKKXJÁåÓÓ›€JJJ8J^ppp^i€€€€€›››ÆÆÓÆÓÆÓÆÓÆ´´Á2?D??KKKÓÓÓåÓ›€JJJVpp}‚pi€€€€€€´››ÆÆÆÆÆÆÙÓÆÓÙÓÆLp‚K}åÓåÓåÓÓ›€JJVp©»œ}‚€€€€€€€›››ÆÆÆÆÓÆÓÆÓÆÓÆÓÆÓÓÓÓÓåÓÓÓ›€JJp‚œ»»»»»»p€€€€€€€€€´››ÆÆÆÆÙÆÆÆÙÓÆÓÙÓÙÓåÓåÓÓ›€JDp»»ÚÚÚÚ»©€€€€€JJJJJJ›››ÆÆÓÆÓÆÓÆÓÆÓÆÓÆÓÓÓÓÓ›€JJ}»ÍÚìììÚ»€€€JJJJJJJJJJÁ››ÆÆÆÆÆÆÙÓÆÓÙÓÆÓåÓÓ›€JVp»ÈÚìÿìÚ»€€€JJJJJJJJJJJ€›››ÆÆÆÆÓÆÓÆÓÓÓÓÓÓÓ›€JJp»ÍÚìììÈ»}€€JJJJJJJJJJJJ€€€´››ÆÆÆÆÙÓÆÆÙÆÆÓÓ›€€8p}»»ÚÚÈ»p€JJJJJJJJJ=bbbnbb€€¨››ÆÆÓÆÓÆÓÆÓÆÓ›€€€^p¡»»»»œV€JJJJJJJJbtt“““†tb€€´››ÆÆÆÆÆÆÙÓÓ›€€€€cp}œp€€JJJJJJJbt““¥¥²²¥¥“t€€€ˆ››ÓÆÓÆÓÆÓ›€€€€€Vppppp€€€€JJJJJJJt¥¥¥¿¿¿¿¿¥€€€€€Á››ÙÆÆÆÓ›€€€€€€€€€€€€€€€JJJJJJb“¥²¿¿ËËË¿¿“€€€€€€›››ÆÆÓ›€€€€€€€€€€€€€€€JJJJJJb†“¥¿¿ËËËËË¿²“€€€€€€€€Á››Ó›€€€€€€€€€€€€€€€€JJJJJb“¥¿¿ËËØØåËË²“€€€€€€€€€€€››€€€€€€€€€€€€€€€€€JJJJb“¥¿¿ËØåòòòË¿¥€€€€€€€€€€€€›€€€€€€€€€€€€€€€€€JJJJb¥¿¿ËËòòÿòË¥“€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€JJJbt“¥¿¿Ëåòòå¿¥t€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€b“¥¿¿ËËËË¿¿“€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€nt†¥¥¿¿¿¿¥“€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€Tbt¥¥¥“t\€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€\{\n\{€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€

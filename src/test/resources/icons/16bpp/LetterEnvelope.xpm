@@ -1,0 +1,164 @@
+/* XPM */
+static char *letter[] = {
+/* width height num_colors chars_per_pixel */
+"    48    48       61            1",
+/* colors */
+". c #000000",
+"# c None",
+"a c #101f1f",
+"b c #10381f",
+"c c #1f1f20",
+"d c #201810",
+"e c #202810",
+"f c #204740",
+"g c #2f2f30",
+"h c #2f3000",
+"i c #30302f",
+"j c #30383f",
+"k c #3f303f",
+"l c #3f4000",
+"m c #404740",
+"n c #4f380f",
+"o c #4f4f4f",
+"p c #4f574f",
+"q c #507770",
+"r c #50804f",
+"s c #5f5f60",
+"t c #5f6050",
+"u c #60474f",
+"v c #606870",
+"w c #6f3060",
+"x c #6f775f",
+"y c #70404f",
+"z c #70676f",
+"A c #707780",
+"B c #806030",
+"C c #8f909f",
+"D c #8fa8b0",
+"E c #90672f",
+"F c #9fafa0",
+"G c #9fbf9f",
+"H c #9fe0af",
+"I c #a0404f",
+"J c #a09890",
+"K c #a0a7c0",
+"L c #b04830",
+"M c #b07850",
+"N c #bf776f",
+"O c #bfe0c0",
+"P c #c0bfcf",
+"Q c #c0c8c0",
+"R c #c0cfef",
+"S c #cf806f",
+"T c #cfd0d0",
+"U c #d0dfd0",
+"V c #d0efdf",
+"W c #dfb860",
+"X c #dfd8bf",
+"Y c #dfe0e0",
+"Z c #e0903f",
+"0 c #e0dfd0",
+"1 c #e0f0cf",
+"2 c #e0f7e0",
+"3 c #e0fff0",
+"4 c #efb89f",
+"5 c #efeff0",
+"6 c #f0fff0",
+/* pixels */
+"################################################",
+"################################################",
+"################################################",
+"################################################",
+"################################################",
+"################################################",
+"################################################",
+"################################################",
+"################################################",
+"################################################",
+"#363636363636363636363636363636363636363636#####",
+"#5Y2Y2YYYYYY1Y1YVYUYU0UUU0UUUTUTXTXTOTQTQR3oA###",
+"#35wwPwPwyYYYYYVYVYVUVUUUVUUUUUTUTUTOTQTRO3.ov##",
+"#6Y2YYYYYY1Y1YVYVYV0U0U0UUUUUUXTXTOOiILIhR3.om##",
+"#35wwwYwYwwYYVYVYVUVUUUVUUUUUTUTUOTTZXpBEQ3.am##",
+"#5YYYYYY1Y1YVYVYV0U0U0UUUUUUXTXTOTOOWbyNnR3.am##",
+"#3YwwyYwYywwwVYVUVUVUVUUUUUTUTUOTOTTMcbuSO3.am##",
+"#6Y2YY1Y1Y1Y1YV0U0U0UUUUUUXTXTXTXTOOcbcbdQ3.am##",
+"#35YYYYYYYYYYVYVYVUVUUUUUUUUUTTTTOQOTOQOQQ3.am##",
+"#5YYYYYY1Y1YVYUYU0UUUUUUUTUTXTXTOTQTQRQQQT3.am##",
+"#3YYYYYYYYYGKVYFUFUDUVUTUUUTUTUOTOQOQOQQQU3.am##",
+"#6YYYY1Y1YV.xzORxkr.QzfzUUXTXTOTOTORQRQRQU3.am##",
+"#3YYYYYYYVUVUVUVUVUVUVUUUTUTUOTOTOQOQQQQQU3.am##",
+"#5YY1Y1YVYVzr0UkFJiUUlUJXTXkOTOTORQQQRQQQT3.am##",
+"#3YYYYYVYVYqQqkD.Ogfz.UrJ.UfCOTOQOQOQOQHQU3.am##",
+"#61Y1YVYVYU0U0U0U0U0U0U0U0U0OTORQRQRQQQQOU3.am##",
+"#3YYYVYVYVUqT.FOkOFOzDUTzVvTziQrTiQOQQQQTU3.am##",
+"#51YVYVYV0UzrRrFrzizO.tTrltTiltttlQQQPQQOT3.aj##",
+"#3YVYVYVUVUVUVUUUUUTUTUOTOTOQOQOQOQQQQQHQU3.aj##",
+"#61Y1YV0U0U0UUUUUUXTXTXTXTORQRQRQQQQQQ4POU3.aj##",
+"#3YYYVYVYVUVUUUUUUUUUTTTTOTOTOQOQQQQQHQHTU3.aj##",
+"#51YVYUYU0UUUUUUUTUTOTXTOTQTQRQQQQQTOTQTOT3.aj##",
+"#3YVYVYVUVUUUVUTUUUTUUUTUUUTUUUTUUUTUUUTUU3.aj##",
+"#633333333333333333333333333333333333333333.aj##",
+"##..........................................aj##",
+"##Aoeeeeeeeeeeeaaaaaaaaaaaaaaaaaaaaaaaaaaaaajj##",
+"###AAoooooooooooooommmmmmmmmmmmmmmjjjjjjjjjjjs##",
+"################################################",
+"################################################",
+"################################################",
+"################################################",
+"################################################",
+"################################################",
+"################################################",
+"################################################",
+"################################################",
+"################################################",
+"################################################"
+};
+SIMPLE  =                    T                                                  
+BITPIX  =                    8                                                  
+NAXIS   =                    2                                                  
+NAXIS1  =                   48                                                  
+NAXIS2  =                   48                                                  
+HISTORY Written by XV 3.10                                                      
+END                                                                             
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSvvOOOOOOOOOOOOOOCCCCCCCCCCCCC
+CC66666666666_SSSSvO!!!!!!!!!!!66SSSS€€€€€€€€€€€€€€
+€€€€€€€€€€€€€€€€€€€€€€€€€€€€6SSS÷òòòòòòòòòòòòòòòòòòòòòòòòòòòòòòòòòòòòòòòòò€6SS
+Sòßáßáßá×á×××á×Ï×××Ï×××Ï×××Ï×××Ï×××Ï×××Ï××ò€6SSSïåßáß×ß×Ý×××××××Ï×ÏÏÏÖÏÏÏÄÏÄÎÄÄ
+ÄÄÄÏÏÏÄÏÏÏò€6SSSòßßßáßáßá×á×××××××××ÏÏÏÏÏÏÏÏÏÄÏÄÄÄÄÄÂÄÂÏ×ò€6SSS÷åßåßáÝ×Ý×Ý××××
+××ÖÏÖÏÖÏÖÏÏÎÄÎÄÎÄÄÄÄÄÄÇÁÏ×ò€6SSSòßáßáßá×á×á×á×××××Ï×Ï×ÏÏÏÏÏÄÏÄÏÄÏÄÄÄÄÄÂÄ×ò€6SSSïåßáßáßáÝ×kgÎg§gk/kÏ€]Ïg5]Ï/5]]]5ÄÄÄÁÄÄÏÏò€6SSSòßßßáßáßá×hÏ€§Ï7Ï§Ïk ×ÏkáfÏk/ÄgÏ/ÄÏÄÄÄÄÏ×ò€CSSS÷åßåßáßáß×Ý×Ý×Ý×Ý×Ý×Ý×Ý×Ý×ÝÏÏÏÎÄÎÄÎÄÄÄÄÏ×ò€CSSSòßßßßßáßáßhÄh7 €Ï/8k€×g™€×8’ÏÏÏÄÏÄÏÄÏÄÂÄ×ò€CSSSïßßåßåßáßákgÝ×7§™/××5×™ÖÏÖ7ÏÏÏÏÏÎÄÄÄÎÄÄÄÏò€CSSSòßßßßßßßá×á×á×á×á×á×á×××Ï×Ï×ÏÏÏÏÏÄÏÄÄÄÄÄ×ò€CSSS÷ßßßßåßåßá€pkÏÎp7g€Äk8k××ÖÏÖÏÏÏÏÏÏÎÄÎÄÎÄ×ò€CSSSòßßßßßßßßß¯¨áß§×§× ×á×Ï×××Ï×Ï×ÏÏÏÄÏÄÏÄÄÄ×ò€CSSSïßßßßßßåßåßáß×ß×Ý×××××××Ï×ÏÖÏÖÏÏÏÄÏÄÎÄÄÄÏò€CSSSòïßßßßßßßßßßáßáßá×á×××××××××ÏÏÏÏÏÄÏÏÏÄÏÄÄò€CSSS÷ßëßßåßåßåßåßáÝ×Ý×Ý××××××ÖÏÖÏÖÏÖÏÏÏ&&Äò€CSSSòßMMRßMßRMMMáßá×á×á×á×××××Ï×Ï×ÏÏÏÏÏ…&P˜Ïò€CSSSïßßßßßßåßåßáßáßáÝ×Ý×Ý××××××ÖÏÖÏÏÏÏÏ·&RŽ9Îò€CSSSòïMMMßMßMMßßáßáßá×á×××á×××××Ï×Ï×ÏÏÏžÖSclÄò€CSSS÷ßëßßßßßßåßåßáßáßáÝ×Ý×Ý××××××ÖÏÖÏÏÏ/chc(Îò€OCSSSòïMMÁMÁMRßßßßßáßáßá×á×××á×××××Ï×Ï×ÏÏÏÄÏÎÏò€OfSSSïßëßëßßßßßßåßåßáß×ß×Ý×××Ý×××Ï×ÏÖÏÖÏÏÏÄÏÄÎòOvSSSSò÷ò÷ò÷ò÷ò÷ò÷ò÷ò÷ò÷ò÷ò÷ò÷ò÷ò÷ò÷ò÷ò÷ò÷ò÷ò÷ò÷SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€

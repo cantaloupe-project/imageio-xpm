@@ -1,0 +1,220 @@
+/* XPM */
+static char *antennae[] = {
+/* width height num_colors chars_per_pixel */
+"    48    48      117            2",
+/* colors */
+".. c #000000",
+".# c #000700",
+".a c None",
+".b c #0f0800",
+".c c #1f1000",
+".d c #1f180f",
+".e c #20200f",
+".f c #2f200f",
+".g c #2f2010",
+".h c #2f201f",
+".i c #30280f",
+".j c #30281f",
+".k c #302f10",
+".l c #3f3010",
+".m c #40371f",
+".n c #404010",
+".o c #4f381f",
+".p c #4f3f1f",
+".q c #503f20",
+".r c #504020",
+".s c #505720",
+".t c #5f4720",
+".u c #5f4820",
+".v c #5f5820",
+".w c #604f1f",
+".x c #604f2f",
+".y c #60602f",
+".z c #6f502f",
+".A c #6f572f",
+".B c #6f582f",
+".C c #70582f",
+".D c #70602f",
+".E c #7f602f",
+".F c #7f672f",
+".G c #806830",
+".H c #806f3f",
+".I c #808030",
+".J c #8f6830",
+".K c #8f6f30",
+".L c #8f6f3f",
+".M c #8f7740",
+".N c #8f7830",
+".O c #907030",
+".P c #90703f",
+".Q c #907730",
+".R c #908030",
+".S c #9f7830",
+".T c #9f7840",
+".U c #9f7f30",
+".V c #9f973f",
+".W c #9f9f4f",
+".X c #a0803f",
+".Y c #a08740",
+".Z c #a08f3f",
+".0 c #af8730",
+".1 c #af8840",
+".2 c #af8f3f",
+".3 c #af8f4f",
+".4 c #af903f",
+".5 c #b08f3f",
+".6 c #b09040",
+".7 c #b0904f",
+".8 c #bf903f",
+".9 c #bf9740",
+"#. c #bf9840",
+"## c #bfa840",
+"#a c #bfaf50",
+"#b c #c0973f",
+"#c c #c09f40",
+"#d c #c09f50",
+"#e c #c0a050",
+"#f c #c0af40",
+"#g c #cfa85f",
+"#h c #cfaf60",
+"#i c #cfb74f",
+"#j c #cfb84f",
+"#k c #cfc85f",
+"#l c #d0a740",
+"#m c #d0b84f",
+"#n c #d0c850",
+"#o c #d0d760",
+"#p c #dfa840",
+"#q c #dfb040",
+"#r c #dfb050",
+"#s c #dfb84f",
+"#t c #dfc04f",
+"#u c #dfc850",
+"#v c #dfc87f",
+"#w c #dfc880",
+"#x c #dfd87f",
+"#y c #e0b04f",
+"#z c #e0b74f",
+"#A c #e0bf4f",
+"#B c #e0cf60",
+"#C c #e0d050",
+"#D c #efb84f",
+"#E c #efd05f",
+"#F c #efd86f",
+"#G c #efe080",
+"#H c #f0c04f",
+"#I c #f0c84f",
+"#J c #f0cf50",
+"#K c #f0df5f",
+"#L c #f0e05f",
+"#M c #f0e75f",
+"#N c #ffd050",
+"#O c #ffd750",
+"#P c #ffd85f",
+"#Q c #ffdf60",
+"#R c #ffe05f",
+"#S c #ffe75f",
+"#T c #ffef5f",
+"#U c #fff060",
+"#V c #fff780",
+"#W c #fff86f",
+"#X c #ffff6f",
+"#Y c #ffff8f",
+/* pixels */
+".a.a.a.a.a.a.a.a.a.a.a.a.a.p.p.l.f.i.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a",
+".a.a.a.a.a.a.a.a.a.a.a.a.p.l.O.m.t.z.i.p.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a",
+".a.a.a.a.a.a.a.a.a.a.a.a.p.N.t.q.u.C.E.q.p.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a",
+".a.a.a.a.a.a.a.a.a.a.a.a.p#..x.u.A.C.J.O.w.p.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a",
+".a.a.a.a.a.a.a.a.a.a.a.a.p##.S.z.C.J.K.O.U.w.p.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a",
+".a.a.a.a.a.a.a.a.a.a.a.p.S#.#..C.E.K.Q.U.X.X.C.p.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a",
+".a.a.a.a.a.a.a.a.a.a.a.p.K.X#f.F.K.O.U.X.X.2.8.r.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a",
+".a.a.a.a.a.a.a.a.a.a.a.p.J.S#s.O.O.S.X.X.2.8#b#c.p.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a",
+".a.a.a.a.a.a.a.a.a.a.a.q.J.S#i#..S.U.X.2.9#b#c#l#c.p.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a",
+".a.a.a.a.a.a.a.a.a.a.a.q.J.Q.9#i.Y#n#n#s#m#p#l#p#p.0.p.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a",
+".a.a.a.a.a.a.a.a.a.a.a.z.J.O.U#n.4#n#L#L#U#U#U#U#T#T##.V.I.s.s.s.s.s.s.s.s.s.w.s.s.a.a.a.a.a.a.a",
+".a.a.a.a.a.a.a.a.a.a.a.C.J.O.S#g#g.C.O.5#l#c#s#s#n#K#L#M#M#W#W#W#X#o#o#k###W#V#X#k.m.a.a.a.a.a.a",
+".a.a.a.a.a.a.a.a.a.a.a.C.C.J.O.0#x.X.C.X#c#l#p#p#q#z#z#p.l.l.l.s.v.W#E#W#X#Y#Y#F#z.m.a.a.a.a.a.a",
+".a.a.a.a.a.a.a.a.a.a.a.A.w.J.O.U#v#e.S.C#b#l#p#p#y#D#D#H.0.a.a.a.a.l#C#X#F#Q#P#p.O.q.a.a.a.a.a.a",
+".a.a.a.a.a.a.a.a.a.a.a.z.r.D.O.P#d#v.2.O.D#c#p#p#y#D#H#H#H.p.a.a.a.O#R#t#l#p#c.J.j.q.a.a.a.a.a.a",
+".a.a.a.a.a.a.a.a.a.a.a.p.r.C.K.O.Y#w#e#b.K.O#p#p#y#D#H#H#I#A.p.p.N#A#..O.X.S.x.j.q.a.a.a.a.a.a.a",
+".a.a.a.a.a.a.a.a.a.a.a.p.r.z.K.J.T#h#G.8#c.E.K#p#y#D#H#H#I#N####.C.z.J.z.z.m.C.q.a.a.a.a.a.a.a.a",
+".a.a.a.a.a.a.a.a.a.a.a.a.r.r.J.J.P.1#G#e#c#c.J.J#p#D#H#I#Q#P#c.l.O.C.b.c.e#j.R.q.a.a.a.a.a.a.a.a",
+".a.a.a.a.a.a.a.a.a.a.a.a.r.r.E.K.J.T#h#B#c#l#p.S.E#A#Q#E#c#c#N#H.l.a.a.a.y#T.l.a.a.a.a.a.a.a.a.a",
+".a.a.a.a.a.a.a.a.a.a.a.a.q.r.C.K.J.J.X#v#p#p#p#m#B#a.N#c#H#H#p#u.n.a.a.a.y##.q.a.a.a.a.a.a.a.a.a",
+".a.a.a.a.a.a.a.a.a.a.a.a.k.r.w.K.J.P.Y.1#J#m#F#c#c#c.E.U#H#c#J#R#j.y.a.n#S.q.a.a.a.a.a.a.a.a.a.a",
+".a.a.a.a.a.a.a.a.a.a.a.a.a.r.r.F.J.U.O.J#d#c#c#p#y#z#q.5.D.9#H#R#R.y.a.y#n.q.a.a.a.a.a.a.a.a.a.a",
+".a.a.a.a.a.a.a.a.a.a.a.a.a.r.r.A.C.r.E.E.J#r#q#q#y#z#D#l.O.E.J#.#C#C.y#R.D.a.a.a.a.a.a.a.a.a.a.a",
+".a.a.a.a.a.a.a.a.a.a.a.a.a.q.r.C.l.F.E.E.F.X#p#q#z#z#D#D#D#c.O.J.O.6.y#K.q.a.a.a.a.a.a.a.a.a.a.a",
+".a.a.a.a.a.a.a.a.a.a.a.a.a.k.z.j.j.J.J.E.D.C#c#q#y#z#D#D#H#H#H#p.4.X#K.Z.a.a.a.a.a.a.a.a.a.a.a.a",
+".a.a.a.a.a.a.a.a.a.a.a.a.w.S.r.h.h.J.J.E.D.C.J#p#y#z#D#D#H#H#I#N#O###O.C.a.a.a.a.a.a.a.a.a.a.a.a",
+".a.a.a.a.a.a.a.a.a.a.r.S#b.7.o.j.C.J.J.E.F.C.C.U#p#z#D#D#H#H#I#N#N###u.C.a.a.a.a.a.a.a.a.a.a.a.a",
+".a.a.a.a.a.a.a.a.a.r#r.S#g#e.F.E.E.J.J.E.F.C.C.C.8#y#D#D#D#H#H#N###O.C.O.w.a.a.a.a.a.a.a.a.a.a.a",
+".a.a.a.a.a.a.a.a.z#e#e.T.M.S.E.C.X#b.8.K.E.D.C.C.F#c#z#D#D#H#H#I###u.C.S.w.a.a.a.a.a.a.a.a.a.a.a",
+".a.a.a.a.a.a.a.F#d#d#d.T.E.r.r.m.Y#b#b.2.E.D.C.C.z.J.2.U.X.X.X.U#N.C.0#n.U.a.a.a.a.a.a.a.a.a.a.a",
+".a.a.a.a.a.a.a.F#d#d#d.M.L.q.j.B.T.5#b#b.2.E.C.C.A.z.S.S.U.X.X###N.C#O#i.S.w.a.a.a.a.a.a.a.a.a.a",
+".a.a.a.a.a.a.a.F#d#d#d.B.L.z.G.T.M.r.X#b#b.Y.F.C.C.z.z.X#y#D###J.C#N#f.K.4.w.a.a.a.a.a.a.a.a.a.a",
+".a.a.a.a.a.a.a.F.1.1.Y.G.H.G.G.T.M.u.e.O#b#b.Y.D.C.z.z.C.Y#y###N.C#..J.U#K.w.a.a.a.a.a.a.a.a.a.a",
+".a.a.a.a.a.a.a.F.7.T.X.3.H.G.L.M.L.E.m.l.O#b#b.Y.F.A.z.x.A.5#H#s.K.F.X#H#O.w.a.a.a.a.a.a.a.a.a.a",
+".a.a.a.a.a.a.a.F#d#d#..3.L.E.C.w.w.w.r.r.r.O#b#b.5.J.z.x.u.F.5.U.J#l#H#N#N#O.w.a.a.a.a.a.a.a.a.a",
+".a.a.a.a.a.a.a.F.X.Y.Y.Y.M.B.z.r.r.r.r.r.r.q.r.U#b#b.U.C.u.w.F.X#y#D#H#I#N#N.w.a.a.a.a.a.a.a.a.a",
+".a.a.a.a.a.a.a.F.F.S.X.X.S.u.w.r.r.r.r.r.q.l.h.h.h.U.2.8.O.C.z.C#l#D#H#H#I#N.w.a.a.a.a.a.a.a.a.a",
+".a.a.a.a.a.a.a.F.F.T.3.1.X.C.w.r.r.q.q.q.o.l.h.a.a.h.h.h.X.O.q.r.z.5#D#D#H#H.w.a.a.a.a.a.a.a.a.a",
+".a.a.a.a.a.a.a.F.D.S.1.X.U.F.w.r.r.q.q.q.m.l.h.g.g.a.a.a.h.h.h.k.q.t.S#q#D#D.w.a.a.a.a.a.a.a.a.a",
+".a.a.a.a.a.a.a.F.C.M.X.X.U.J.w.r.q.q.q.o.m.l.r.r.k.g.g.a.a.a.a.a.h.h.j.r.U#b.p.a.a.a.a.a.a.a.a.a",
+".a.a.a.a.a.a.a.F.A.P.X.X.U.O.w.r.q.q.q.o.q.r.t.t.r.r.q.g.g.a.a.a.a.a.a.h.h.h.a.a.a.a.a.a.a.a.a.a",
+".a.a.a.a.a.a.a.F.z.P.S.S.S.S.u.r.q.q.q.o.A.A.z.u.t.r.r.r.r.k.k.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a",
+".a.a.a.a.a.a.a.F.z.O.S.S.S.S.z.r.q.q.q.o.A.C.C.z.z.x.w.r.r.r.r.o.k.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a",
+".a.a.a.a.a.a.a.F.z.O.S.U.S.Q.D.r.q.q.q.o.A.C.C.C.A.A.z.x.w.r.r.r.r.q.k.a.a.a.a.a.a.a.a.a.a.a.a.a",
+".a.a.a.a.a.a.a.F.z.J.S.S.S.Q.O.J.w.q.q.o.z.C.A.A.A.A.A.z.z.u.w.r.r.r.r.q.a.a.a.a.a.a.a.a.a.a.a.a",
+".a.a.a.a.a.a.a.a.w.J.Q.S.S.O.O.K.E.q.q.o.z.A.A.A.A.A.z.z.z.z.z.u.u.r.r.o.a.a.a.a.a.a.a.a.a.a.a.a",
+".a.a.a.a.a.a.a.a.w.J.O.S.Q.O.O.J.J.z.o.k.l.q.w.z.z.z.z.z.z.z.z.z.z.x.w.j.a.a.a.a.a.a.a.a.a.a.a.a",
+".a.a.a.a.a.a.a.a.a.f.f.f.p.w.r.q.i.g...a.a.a.a.#.#.d.g.l.m.t.w.z.z.z.z.d.a.a.a.a.a.a.a.a.a.a.a.a"
+};
+SIMPLE  =                    T                                                  
+BITPIX  =                    8                                                  
+NAXIS   =                    2                                                  
+NAXIS1  =                   48                                                  
+NAXIS2  =                   48                                                  
+HISTORY Written by XV 3.10                                                      
+END                                                                             
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+SSSSSSSSS"""?M@@&"€SSSS"06IMUUUUSSSSSSSSSSSSSSSSSSSSMlqztqqllU<*0@MUUUUUUUUU
+UOM)SSSSSSSSSSSSSSSSSSSSMltzzqqpc@@<UYYYYYUUUUUII@@<SSSSSSSSSSSSSSSSSSSfUlzzztql
+M@@<UYYYYYYUUIM@@@@@SSSSSSSSSSSSSSSSSSSfUqz}zt]@@@@<YYYYYYUOM@@@@@*SSSSSSSSSSSSS
+SSSSSSSfUqzzzzU@@@@<YYYUUOM@@@@<*SSSSSSSSSSSSSSSSSSSSSSfUszzzzI@@@@<YYUII@@@@**S
+SSSSSSSSSSSSSSSSSSSSSSSfYs€€}qM@@@@<@@II@@@""SSSSSS%%%SSSSSSSSSSSSSSSSSfYv€€}lM@
+@@@<60@@*""SSSSS%%)@}—?SSSSSSSSSSSSSSSSf]zŠ€}fM@@@@@60%""SSS%%%*@Iz®ººMSSSSSSSSS
+SSSSSSSff|Š€YM@@@@@<0%SS%%%€q@@Uºº¾¾MSSSSSSSSSSSSSSSSffz€€zIM@@@@@@0%%%}“qYUY
+¥º¾¾ÂÌMSSSSSSSSSSSSSSSSf€„„„vYU@@@@@@@@}——}YIMf€±º¾ÂÌÌMSSSSSSSSSSSSSSSSfžž—rcYM
+MM@@@q——lUOIf}l¥¾ÌÌÏMSSSSSSSSSSSSSSSSf|€mgrvrc60q——„fYUOY¾µpf€¾ÏMSSSSSSSSSS
+SSSSSSSfŠŠ„gmgg|vIq——„]YUUY„±ŸÌY—l}ÐMSSSSSSSSSSSSSSSSSfžžžYrUg|v@€——„fYYUU€±ºŸÆ
+YÌ£pŽMSSSSSSSSSSSSSSSSSfžžžvr@)Y|——cYYYUzz}€€ŸÌYÏ¯zMSSSSSSSSSSSSSSSSSfžžž|c@@6
+„——c]YYUl}€€€}ÌY‡¸}SSSSSSSSSSSSSSSSSSSUžž|vzcY€—“pc]YYf›´ºº¾¾ÂŸ½YzMSSSSSSSSSSSSSSSSSSSS@±zªžfccllcfYYY“±ººº¾¾ÌŸÏYqMSSSSSSSSSSSSSSSSSSSSS@z—<)YllcfYY}ª´ºº¾¾ÂÌÌŸ½YSSSSSSSSSSSSSSSSSSSSSSSSMz@%%llc]Ylª±´ºº¾¾ÂÌÏŸÏYSSSSSSSSSSSSSSSSSSSSSSSSS*U))llc]Y›®±´ºº¾¾¾ªŽ€ÐˆSSSSSSSSSSSSSSSSSSSSSSSSS@@Y0fccf€ª®´´ººº›qlqŽXÐ@SSSSSSSSSSSSSSSSSSSSSSSS@@YY@ccl±®®±´º¥qcl—ÁÁXÖ]SSSSSSSSSSSSSSSSSSSSSSSS@@fl}qlž››ª±´®]—¾ÖÖXSX¸@SSSSSSSSSSSSSSSSSSSSSS*@Mpls„ŠÆ¯Ï›››c}¾›ÆÖ¯XS8Ú@SSSSSSSSSSSSSSSSSSSSSS@@Ypll€Äªªª¯Ã¥t›¾¾ª½8SSSXŸ@SSSSSSSSSSSSSSSSSSSSS@@cpl|­Ã›¥ªzc¸ÖÉ››Ì¾0SSSXÞ0SSSSSSSSSSSSSSSSSSSSS@@llsŠÖž››llªº¾ÂÖÒ›0qY	¯y@SSSSSSSSSSSSSSSSSSS?@Upl|­Ö“›cpª±º¾¾ÂÌŸŸYUlUU6Y@SSSSSSSSSSSSSSSSSSS?@Ypq„Äž—pqªª±º¾¾Â¸??t¸—q€zO)@SSSSSSSSSSSSSSSSSSU@]qsžÄq]›ªª±º¾¾¾?SSSqÖ¹¥ª›l)@SSSSSSSSSSSSSSSSSYMlq}ÄžzY—¥ªª±ºº¾‡SSSS0ÁèÏÖÒªq@SSSSSSSSSSSSSSSSSYYlq‡Ì€Y€›¥ªª®´´ª000LQ’ÉåèííÏ´6SSSSSSSSSSSSSSSSSYlqzªªYq¥›µµ¸ÐÑÔÔåååèÂÂºŸåçèº6SSSSSSSSSSSSSSSSSUlq}¸Ž¸ÑÑÞÞÞÞÞÞŸŒsLLLLLLLLLMLLSSSSSSSSSSSSSSSSSS@lt—¯„¸¸µ¯ª¥ªª‡?SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS@lz¯—z}€——›¥›?SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS?lzµqqz€€“—›?SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS?p€£fpq}€€“@SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS?z——Ycpt}€€Y?SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS?ŸzUYlpq}M?SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS?—OIYYlqM?SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS?tI@IYc@?SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS?0q6IU&?SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS??0"&SSSSSSSSSSSSSSSSSSSSSSSSSSSSSS€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€
