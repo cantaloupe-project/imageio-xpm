@@ -14,7 +14,20 @@ display type. (This reader renders the RGB version by default, but it can
 render other versions via the use of a custom `XPMImageReadParam` instance (see
 examples).
 
-# Examples
+# Installation
+
+This plugin is available in Maven Central. Add the following to the
+`<dependencies>` section of your `pom.xml`:
+
+```xml
+<dependency>
+    <groupId>edu.illinois.library</groupId>
+    <artifactId>imageio-xpm</artifactId>
+    <version>[the version you want]</version>
+</dependency>
+```
+
+# Usage
 
 ## Simple
 
