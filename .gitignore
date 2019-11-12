@@ -3,3 +3,6 @@
 
 # IDE stuff
 /*.iml
+
+# Maven Central stuff
+/release.properties
