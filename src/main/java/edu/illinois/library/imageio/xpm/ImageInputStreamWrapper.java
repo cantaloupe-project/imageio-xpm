@@ -51,7 +51,7 @@ final class ImageInputStreamWrapper extends InputStream {
 
     @Override
     public int read(byte[] b) throws IOException {
-        return wrappedStream.read();
+        return wrappedStream.read(b);
     }
 
     @Override
