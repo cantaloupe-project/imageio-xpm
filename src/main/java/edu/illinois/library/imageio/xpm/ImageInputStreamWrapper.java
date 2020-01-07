@@ -5,7 +5,11 @@ import java.io.IOException;
 import java.io.InputStream;
 
 /**
- * Wraps an {@link ImageInputStream}.
+ * <p>Wraps an {@link ImageInputStream}.</p>
+ *
+ * <p>N.B.: {@link #close()} is not overridden, so calling it does not close
+ * the {@link ImageInputStream}. This is because that stream is provided by the
+ * client, who may wish to continue using it.</p>
  */
 final class ImageInputStreamWrapper extends InputStream {
 
@@ -23,15 +27,6 @@ final class ImageInputStreamWrapper extends InputStream {
     public int available() throws IOException {
         return (int) (wrappedStream.length() -
                 wrappedStream.getStreamPosition());
-    }
-
-    @Override
-    public void close() throws IOException {
-        try {
-            wrappedStream.close();
-        } finally {
-            super.close();
-        }
     }
 
     @Override
