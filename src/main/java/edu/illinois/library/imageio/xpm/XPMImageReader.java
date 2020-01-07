@@ -13,7 +13,7 @@ import java.awt.image.BufferedImage;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Collections;
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
@@ -94,8 +94,11 @@ public final class XPMImageReader extends ImageReader {
 
     @Override
     public Iterator<ImageTypeSpecifier> getImageTypes(int imageIndex) {
-        return Collections.singletonList(
-                ImageTypeSpecifier.createFromBufferedImageType(BufferedImage.TYPE_INT_ARGB))
+        return Arrays.asList(
+                ImageTypeSpecifier.createFromBufferedImageType(BufferedImage.TYPE_INT_ARGB),
+                ImageTypeSpecifier.createFromBufferedImageType(BufferedImage.TYPE_INT_RGB),
+                ImageTypeSpecifier.createFromBufferedImageType(BufferedImage.TYPE_BYTE_GRAY),
+                ImageTypeSpecifier.createFromBufferedImageType(BufferedImage.TYPE_BYTE_BINARY))
                 .iterator();
     }
 
@@ -192,11 +195,11 @@ public final class XPMImageReader extends ImageReader {
             subsampX = readParam.getSourceXSubsampling();
             subsampY = readParam.getSourceYSubsampling();
         }
-
-        final BufferedImage bufImage = newDestination(
+        final BufferedImage bufImage = getDestination(
                 readParam,
-                Math.round(roi.width / (float) subsampX),
-                Math.round(roi.height / (float) subsampY));
+                getImageTypes(imageIndex),
+                getWidth(imageIndex),
+                getHeight(imageIndex));
         for (int srcY = 0; srcY < srcDims.height; srcY += subsampY) {
             String line = "";
             for (int sy = subsampY; sy > 0 && line != null; sy--) {
@@ -281,26 +284,6 @@ public final class XPMImageReader extends ImageReader {
                 }
             }
         }
-    }
-
-    private BufferedImage newDestination(ImageReadParam readParam,
-                                         int width,
-                                         int height) {
-        BufferedImage image = null;
-        if (readParam != null) {
-            image = readParam.getDestination();
-            if (image == null) {
-                ImageTypeSpecifier typeSpec = readParam.getDestinationType();
-                if (typeSpec != null) {
-                    image = typeSpec.createBufferedImage(width, height);
-                }
-            }
-        }
-        if (image == null) {
-            image = new BufferedImage(width, height,
-                    BufferedImage.TYPE_INT_ARGB);
-        }
-        return image;
     }
 
 }

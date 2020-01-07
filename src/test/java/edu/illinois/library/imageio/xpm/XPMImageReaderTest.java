@@ -75,6 +75,12 @@ class XPMImageReaderTest {
             Iterator<ImageTypeSpecifier> it = reader.getImageTypes(0);
             assertEquals(ImageTypeSpecifier.createFromBufferedImageType(BufferedImage.TYPE_INT_ARGB),
                     it.next());
+            assertEquals(ImageTypeSpecifier.createFromBufferedImageType(BufferedImage.TYPE_INT_RGB),
+                    it.next());
+            assertEquals(ImageTypeSpecifier.createFromBufferedImageType(BufferedImage.TYPE_BYTE_GRAY),
+                    it.next());
+            assertEquals(ImageTypeSpecifier.createFromBufferedImageType(BufferedImage.TYPE_BYTE_BINARY),
+                    it.next());
             assertFalse(it.hasNext());
         } finally {
             reader.dispose();
@@ -199,8 +205,8 @@ class XPMImageReaderTest {
             ImageReadParam param = reader.getDefaultReadParam();
             param.setDestinationOffset(new Point(10, 10));
             BufferedImage image = reader.read(0, param);
-            assertEquals(22, image.getWidth());
-            assertEquals(22, image.getHeight());
+            assertEquals(32, image.getWidth());
+            assertEquals(32, image.getHeight());
             assertRGB(image.getRGB(5, 5), 0, 0, 0);
             assertRGB(image.getRGB(18, 16), 0, 255, 0);
             assertRGB(image.getRGB(18, 20), 255, 0, 0);
