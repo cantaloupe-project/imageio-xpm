@@ -12,7 +12,7 @@ public class XPMImageReaderSpi extends ImageReaderSpi {
     private static final String DESCRIPTION        = "XPM Image Reader";
     private static final String VENDOR_NAME        = "University of Illinois at Urbana-Champaign Library";
     // N.B.: this needs to be kept in sync with <version> in pom.xml
-    private static final String VERSION            = "1.0";
+    private static final String VERSION            = "1.0.1";
     private static final String READER_CLASS_NAME  =
             XPMImageReader.class.getName();
     private static final String[] NAMES            = { "xpm" };
