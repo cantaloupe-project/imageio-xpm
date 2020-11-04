@@ -46,6 +46,8 @@ public class XPMImageReadParam extends ImageReadParam {
      *
      * <p>The default display type (when this method is not used) is {@link
      * DisplayType#COLOR}.</p>
+     *
+     * @param displayType Display type.
      */
     public void setDisplayType(DisplayType displayType) {
         if (displayType == null) {
